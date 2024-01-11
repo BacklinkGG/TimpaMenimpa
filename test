@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .product-image {
+            flex: 1;
+        }
+
+        .product-details {
+            flex: 1;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            margin-top: 0;
+        }
+
+        .description {
+            margin-top: 10px;
+        }
+
+        .price {
+            margin-top: 10px;
+            font-size: 18px;
+            color: #333;
+        }
+
+        .category {
+            margin-top: 10px;
+            font-style: italic;
+            color: #666;
+        }
+
+        .rating {
+            margin-top: 10px;
+            color: #ffcc00;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+    <title>OBAT ABORSI 100% AMPUH</title>
+</head>
+<body>
+    <div class="container">
+        <div class="product-image">
+            <!-- Letakkan gambar produk di sini -->
+            <img src="https://d1bpj0tv6vfxyp.cloudfront.net/articles/322562_24-3-2021_15-30-1.webp" alt="Product Image">
+        </div>
+        <div class="product-details">
+            <h1>OBAT ABORSI 100% AMPUH</h1>
+            <p class="description">Deskripsi Produk yang sangat menarik dan informatif.</p>
+            <p class="price">Harga: Rp.900.000</p>
+            <p class="category">Kategori: Obat-obatan</p>
+            <div class="rating">&#9733; &#9733; &#9733; &#9733; &#9733;</div>
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 JasaSeo. All rights reserved.
+    </footer>
+</body>
+</html>
